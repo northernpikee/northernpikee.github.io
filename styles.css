@@ -1,11 +1,50 @@
 body {
 
-	background-color:powderblue;
+	background-color:#E5D283;
+	padding-left:300px;
+	padding-right:300px;
 }
 
 h1{
-	color:blue;
+	color:#213555;
 }
 h2 {
 	
+	color:#213555;
+	padding:10px;
+}
+
+dl {
+
+	margin: 50px;
+	padding: 10px;
+	background-color:#F0F0F0;
+	border: 1px solid #ddd;
+	border-radius: 8px;
+}
+
+dt{
+
+margin:20px;
+color:#213555;
+font-size:30px;
+
+}
+
+dd{
+
+	color:#4f709c;
+        padding:10px;
+}
+.header-container {
+
+	margin: 50px;
+	padding: 10px;
+	background-color:#F0F0F0;
+	border: 1px solid #ddd;
+	border-radius: 8px;
+}
+img {
+
+	padding:20px;
 }
