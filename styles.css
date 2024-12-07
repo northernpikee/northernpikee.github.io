@@ -1,8 +1,8 @@
 body {
 
 	background-color:#E5D283;
-	padding-left:300px;
-	padding-right:300px;
+	padding-left:10%;
+	padding-right:10%;
 }
 
 h1{
@@ -15,9 +15,9 @@ h2 {
 }
 
 dl {
-
-	margin: 50px;
-	padding: 10px;
+        padding:2%;
+	padding-left:5%;
+	padding-right:5%;
 	background-color:#F0F0F0;
 	border: 1px solid #ddd;
 	border-radius: 8px;
@@ -25,7 +25,7 @@ dl {
 
 dt{
 
-margin:20px;
+margin:1%;
 color:#213555;
 font-size:30px;
 
@@ -34,17 +34,18 @@ font-size:30px;
 dd{
 
 	color:#4f709c;
-        padding:10px;
+        padding:1%;
 }
 .header-container {
 
-	margin: 50px;
-	padding: 10px;
+        padding:2%;
+	padding-left:5%;
+	padding-right:5%;
 	background-color:#F0F0F0;
 	border: 1px solid #ddd;
 	border-radius: 8px;
 }
 img {
 
-	padding:20px;
+	padding:1%;
 }
