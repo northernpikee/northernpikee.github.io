@@ -1,0 +1,31 @@
+Gadus chalcogrammus	November 01, 2022
+Atherinopsis californiensis (jack silverside)	November 02, 2022
+Pseudolaguvia shawi	November 03, 2022
+Scyliorhinus stellaris (nursehound)	November 04, 2022
+Megalops atlanticus (atlantic tarpon)	November 05, 2022
+gnathanacanthus goetzeei (red velvetfish)	November 06, 2022
+Ogcocephalus darwini (red-lipped batfish)	November 07, 2022
+Dactyloptena orientalis (oriental flying gurnard)	November 08, 2022
+Lepisosteus oculatus (spotted gar)	November 09, 2022
+Oreosoma atlanticum	November 10, 2022
+Rhinobatos rhinobatos (common guitarfish)	November 11, 2022
+Neoniphon argenteus (clearfin squirrelfish)	November 12, 2022
+Epinephelus tukula (potato grouper)	November 13, 2022
+Ecsenius axelrodi (axelrod's clown belnny)	November 14, 2022
+Macropodus spechti (black paradisefish)	November 15, 2022
+Neoceratodus forsteri (Australian lungfish)	November 16, 2022
+Antennarius striatus (hairy frogfish)	November 17, 2022
+Electrophorus electricus (electric eel)	November 18, 2022
+Kyonemichthys rumengani (thread pipefish)	November 19, 2022
+Oncorhynchus nerka (sockeye salmon)	November 20, 2022
+Hydrolagus mitsukurii	November 21, 2022
+Neoclinus blanchardi (sarcastic fringehead)	November 22, 2022
+Carnegiella marthae (black-winged hatchetfish)	November 23, 2022
+Copella arnoldi (splash tetra)	November 24, 2022
+Bathysaurus mollis (highfin lizzardfish)	November 25, 2022
+Pleuronectes platessa (european plaice)	November 26, 2022
+Carcharodon carcharias (great white shark)	November 27, 2022
+Gnathonemus petersii (peters elephant fish)	November 28, 2022
+Polypterus delhezi (barred bichir)	November 29, 2022
+Leporinus fasciatus (banded leporinus)	November 30, 2022
+
