@@ -709,6 +709,7 @@
  symphysodon aequifasciatus (29.05.2024)
  synchiropus grinnelli (29.10.2023)
  syngnathus pelagicus
+ synodontis denticulatus (24.12.2024)
  synodontis kogonensis
  synodus synodus
  taenianotus triacanthus
