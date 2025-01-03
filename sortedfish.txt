@@ -110,6 +110,7 @@
  careproctus homopterus (28.10.2023)
  carnegiella marthae
  catostomus insignis
+ catostomus plebeius (03.01.2025)
  caulophryne jordani
  centrophryne spinulosa
  cephalopholis hemistiktos (14.12.2024)
@@ -280,6 +281,7 @@
  gnathodentex aureolineatus
  gnathonemus petersii
  gnathophis xenica (22.09.2024)
+ gobiosoma nudum (02.01.2025)
  gobiosoma robustum (17.09.2024)
  gobiopterus semivestitus (02.11.2024)
  goniistius gibbosus
