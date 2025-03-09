@@ -316,6 +316,7 @@
  gymnocanthus detrisus (21.11.2023)
  gymnogeophagus lipokarenos (12.11.2024)
  gymnothorax griseus (13.02.2023)
+ gymnothorax herrei (03.03.2025)
  gymnothorax johnsoni (30.10.2023)
  gymnothorax mareei (16.07.2023)
  gymnothorax meleagris (11.12.2022)
