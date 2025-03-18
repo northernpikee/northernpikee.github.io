@@ -60,6 +60,7 @@
  apogon nitidus (24.05.2023)
  apterichtus flavicaudus (21.10.2024)
  arapaima gigas
+ argentina sphyraena (13.03.2025)
  argonectes longiceps
  ariosoma anagoides (09.02.2025)
  ariosoma gnanadossi (19.05.2024)
@@ -285,6 +286,7 @@
  fundulus julisia (01.07.2023)
  fundulus olivaceus (13.05.2024)
  gadella jordani (02.10.2023)
+ gadomus colletti (14.03.2025)
  gadus chalcogrammus (01.11.2022)
  gadus macrocephalus (20.11.2023)
  gadus morhua
