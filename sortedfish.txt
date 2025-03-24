@@ -158,7 +158,8 @@
  chlorophthalmus acutifrons
  chondrostoma nasus
  chromis alpha (17.05.2024)
- chromis scotochiloptera 
+ chromis scotochiloptera
+ chromis xutha (20.03.2025) 
  chrysichthys polli
  cichla mirianae
  citharichthys cornutus (27.09.2024)
