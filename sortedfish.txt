@@ -87,6 +87,7 @@
  barbulifer pantherinus(25.10.2023)
  bathypterois grallator
  bathypterois guentheri
+ bathypterois quadrifilis (08.04.2025)
  bathyraja maculata (18.05.2024)
  bathysaurus mollis
  batrachocottus nikolskii
@@ -414,6 +415,7 @@
  jenkinsia lamprotaenia
  johnius macrorhynus 
  jupiaba anteroides
+ jupiaba pinnata (07.04.2025)
  kathetostoma albigutta
  katsuwonus pelamis
  knodus hypopterus (15.09.2024)
@@ -592,6 +594,7 @@
  oxyeleotris nullipora
  oxynoemacheilus hazarensis (17.11.2024)
  oxynotus caribbaeus
+ pachystomias microdon (05.04.2025)
  pangasianodon hypophthalmus
  paedocypris progenetica (28.12.2024)
  pangio bhujia (17.07.2023)
@@ -717,6 +720,7 @@
  rhinobatos rhinobatos
  rhinogobius candidianus (30.08.2023)
  rhinolekos garavelloi
+ rhodeus sericeus (06.04.2025)
  rhynchorhsmphus georgii (03.02.2025)
  rineloricaria castroi (27.08.2023)
  rineloricaria parva (09.01.2025)
