@@ -88,6 +88,7 @@
  bathypterois grallator
  bathypterois guentheri
  bathypterois quadrifilis (08.04.2025)
+ bathyraja abyssicola (09.04.2025)
  bathyraja maculata (18.05.2024)
  bathysaurus mollis
  batrachocottus nikolskii
@@ -265,6 +266,7 @@
  epinephelus quinquefasciatus (23.05.2024)
  epinephelus tauvina (17.02.2025)
  epinephelus tukula
+ eques punctatus (11.04.2025)
  erethistoides sicula (18.03.2024)
  erpetoichthys calabaricus
  esox lucius
@@ -330,6 +332,7 @@
  goniistius gibbosus
  goniistius francisi (13.09.2024)
  grammicolepis brachiusculus
+ guyanancistrus tenuis (13.04.2025)
  gymnachirus nudus
  gymnocanthus detrisus (21.11.2023)
  gymnogeophagus lipokarenos (12.11.2024)
@@ -572,6 +575,7 @@
  ophioblennius clippertonensis (06.11.2024)
  opisthopterus macrops (24.11.2024)
  opisthoproctus soleatus
+ opistognathus aurifrons (10.04.2025)
  opistognathus panamaensis
  opistognathus randalli (20.06.2024)
  oplegnathus fasciatus
