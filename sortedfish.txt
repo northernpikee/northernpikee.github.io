@@ -36,6 +36,7 @@
  anablepsoides jucundus (07.10.2024)
  anarchias seychellensis (14.02.2025)
  anchoa cubana
+ anchovia surinamensis (14.04.2025)
  ancistrus maximus (10.01.2024)
  anomalochromis thomasi (19.12.2024)
  anoplogaster cornuta (31.01.2025)
@@ -175,6 +176,7 @@
  clepticus brasiliensis (23.07.2023)
  cobitis sinensis (13.01.2025)
  cocotropus larvatus (24.10.2023)
+ coelorinchus caribbaeus (15.04.2025)
  coilia mystus (21.11.2024)
  conger myriaster (07.11.2024)
  conger oligoporus
@@ -611,6 +613,7 @@
  paracheirodon innesi (22.05.2023)
  paralichthys lethostigma
  parambassis ranga
+ parapercis haackei (13.04.2025)
  parascyllium collare (19.08.2023)
  parasudis truculenta
  paratilapia polleni (06.09.2023)
