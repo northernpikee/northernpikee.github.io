@@ -192,6 +192,7 @@
  coryphaenoides dossenus (07.03.2025)
  coryphopterus hyalinus
  corythoichthys paxtoni (27.06.2024)
+ cottapistus cottoides (19.04.2025)
  cottus beldingii
  creagrutus brevipinnis (22.07.2023)
  creagrutus hildebrandi (24.02.2025)
@@ -231,6 +232,7 @@
  dendrochirus biocellatus
  dentiraja falloarga (13.06.2024)
  deuterodon luetkenii
+ dialommus fuscus (17.04.2025)
  diaphus brachycephalus
  diaphus regani
  dibranchus japonicus (04.07.2023)
@@ -238,6 +240,7 @@
  dimidiochromis compressiceps (20.12.2024)
  dinolestes lewini
  diodon nicthemerus
+ diploprion drachi (18.04.2025)
  diplotaxodon dentatus (21.10.2023)
  duringlanis perugiae (02.03.2025)
  dysomma formosa
@@ -608,6 +611,7 @@
  parablennius sierraensis
  parablennius tasmanianus (23.06.2024)
  parablennius yatabei
+ parabotia curtus (16.04.2025)
  paracanthurus hepatus
  paracheilinus rennyae
  paracheirodon innesi (22.05.2023)

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <link rel="stylesheet" href="../styles.css">
+
+</head>
+<body>
+<dl>
+
+<dt> The fish of the day February 01, 2023 </dt>
+<dd> Channa argus (northern snakehead)	 </dd>
+<dd> <img src=01.jpg> </dd> 
+<br>
+<dt> The fish of the day February 02, 2023 </dt>
+<dd> Balistes capriscus (grey triggerfish)	 </dd>
+<dd> <img src=02.jpg> </dd> 
+<br>
+<dt> The fish of the day February 03, 2023 </dt>
+<dd> Notoclinops caerulepunctus (blue dot triplefin)	 </dd>
+<dd> <img src=03.jpg> </dd> 
+<br>
+<dt> The fish of the day February 04, 2023 </dt>
+<dd> Hoplostethus atlanticus (orange roughy)	 </dd>
+<dd> <img src=04.jpg> </dd> 
+<br>
+<dt> The fish of the day February 05, 2023 </dt>
+<dd> salmo trutta (brown trout)	 </dd>
+<dd> <img src=05.jpg> </dd> 
+<br>
+<dt> The fish of the day February 06, 2023 </dt>
+<dd> Pimephales promelas (fathead minnow)	 </dd>
+<dd> <img src=06.jpg> </dd> 
+<br>
+<dt> The fish of the day February 07, 2023 </dt>
+<dd> Arothron meleagris (guineafowl puffer)	 </dd>
+<dd> <img src=07.jpg> </dd> 
+<br>
+<dt> The fish of the day February 08, 2023 </dt>
+<dd> Dinolestes lewini (long-finned pike)	 </dd>
+<dd> <img src=08.jpg> </dd> 
+<br>
+<dt> The fish of the day February 09, 2023 </dt>
+<dd> Uranoscopus scaber (atlantic stargazer)	 </dd>
+<dd> <img src=09.jpg> </dd> 
+<br>
+<dt> The fish of the day February 10, 2023 </dt>
+<dd> Toxotes jaculatrix (banded archerfish)	 </dd>
+<dd> <img src=10.jpg> </dd> 
+<br>
+<dt> The fish of the day February 11, 2023 </dt>
+<dd> Neopomacentrus taeniurus (Freshwater demoiselle)	 </dd>
+<dd> <img src=11.jpg> </dd> 
+<br>
+<dt> The fish of the day February 12, 2023 </dt>
+<dd> squatina australis (australian angelshark)	 </dd>
+<dd> <img src=12.jpg> </dd> 
+<br>
+<dt> The fish of the day February 13, 2023 </dt>
+<dd> Gymnothorax griseus (geometric moray)	 </dd>
+<dd> <img src=13.jpg> </dd> 
+<br>
+<dt> The fish of the day February 14, 2023 </dt>
+<dd> Pseudanthias squamipinnis (sea goldie)	 </dd>
+<dd> <img src=14.jpg> </dd> 
+<br>
+<dt> The fish of the day February 15, 2023 </dt>
+<dd> Parablennius yatabei (yatabe blenny)	 </dd>
+<dd> <img src=15.jpg> </dd> 
+<br>
+<dt> The fish of the day February 16, 2023 </dt>
+<dd> Rhinocodon typus (whale shark)	 </dd>
+<dd> <img src=16.jpg> </dd> 
+<br>
+<dt> The fish of the day February 17, 2023 </dt>
+<dd> Puntius bimaculatus (redside barb)	 </dd>
+<dd> <img src=17.jpg> </dd> 
+<br>
+<dt> The fish of the day February 18, 2023 </dt>
+<dd> Amphiprion bicinctus (red sea clownfish)	 </dd>
+<dd> <img src=18.jpg> </dd> 
+<br>
+<dt> The fish of the day February 19, 2023 </dt>
+<dd> discrossus maculatus	 </dd>
+<dd> <img src=19.jpg> </dd> 
+<br>
+<dt> The fish of the day February 20, 2023 </dt>
+<dd> Etheostoma obama	 </dd>
+<dd> <img src=20.jpg> </dd> 
+<br>
+<dt> The fish of the day February 21, 2023 </dt>
+<dd> Astronotus ocellatus (oscar fish)	 </dd>
+<dd> <img src=21.jpg> </dd> 
+<br>
+<dt> The fish of the day February 22, 2023 </dt>
+<dd> Sladenia shaefersi	 </dd>
+<dd> <img src=22.jpg> </dd> 
+<br>
+<dt> The fish of the day February 23, 2023 </dt>
+<dd> sinocyclocheilus longicornus	 </dd>
+<dd> <img src=23.jpg> </dd> 
+<br>
+<dt> The fish of the day February 24, 2023 </dt>
+<dd> Xyliphius magdalenae	 </dd>
+<dd> <img src=24.jpg> </dd> 
+<br>
+<dt> The fish of the day February 25, 2023 </dt>
+<dd> Pterois volitans  (red lionfish)	 </dd>
+<dd> <img src=25.jpg> </dd> 
+<br>
+<dt> The fish of the day February 26, 2023 </dt>
+<dd> Heniochus intermedius (red sea bannerfish)	 </dd>
+<dd> <img src=26.jpg> </dd> 
+<br>
+<dt> The fish of the day February 27, 2023 </dt>
+<dd> Acanthocybium solandri (wahoo fish)	 </dd>
+<dd> <img src=27.jpg> </dd> 
+<br>
+<dt> The fish of the day February 28, 2023 </dt>
+<dd> Centrophryne spinulosa (horned lantern fish)	 </dd>
+<dd> <img src=28.jpg> </dd> 
+<br>
+</dl>
+<a href=../../index.html>Home</a>
+</body>
+
