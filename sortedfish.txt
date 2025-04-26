@@ -242,6 +242,7 @@
  diodon nicthemerus
  diploprion drachi (18.04.2025)
  diplotaxodon dentatus (21.10.2023)
+ diretmoides veriginae (24.04.2025)
  duringlanis perugiae (02.03.2025)
  dysomma formosa
  dzihunia amudarjensis (13.08.2023)
@@ -553,6 +554,7 @@
  neomerinthe hemingwayi
  neoniphon argenteus
  neopomacentrus taeniurus
+ neosebastes pandus (23.04.2025)
  neosiluroides cooperensis
  neostethus lankesteri
  neotrygon australiae (04.06.2024)
