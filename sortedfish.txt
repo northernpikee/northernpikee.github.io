@@ -523,6 +523,7 @@
  microspathodon chrysurus
  minous trachycephalus
  mitsukurina owstoni
+ moenkhausia oligolepis (25.04.2025)
  mola mola
  monacanthus chinensis (28.10.2024)
  monacanthus tuckeri (20.09.2024)
@@ -898,3 +899,5 @@
  zenarchopterus philippinus
  zenion hololepis (06.12.2024)
  zu cristatus
+Scomberoides commersonnianus, Talang queenfish
+Salarias ramosus, Starry blenny,, 27.04.2025
