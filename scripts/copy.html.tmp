@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fishpage</title>
+</head>
+<body>
+    <header>
+        <h1>Fish of the day offical page hello</h1>
+    </header>
+    <main>
+	    <dl>  
+		    <dt> fish of the day 24.04.2025 </dt>
+		    <dd> Diretmoides veriginae </dd>
+		    <dd><img src="24.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 23.04.2025 </dt>
+		    <dd> Neosebastes pandus </dd>
+		    <dd><img src="23.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 22.04.2025 </dt>
+		    <dd> Quassiremus nothochir, smallfish snake eel </dd>
+		    <dd><img src="22.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 21.04.2025 </dt>
+		    <dd> Liparis fabricii, gelatinous snailfish </dd>
+		    <dd><img src="21.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 20.04.2025 </dt>
+		    <dd> remora remora, common remora </dd>
+		    <dd><img src="20.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 19.04.2025 </dt>
+		    <dd> Cottapistus cottoides </dd>
+		    <dd><img src="19.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 18.04.2025 </dt>
+		    <dd> Diploprion drachi, yellowfin soapfish </dd>
+		    <dd><img src="18.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 17.04.2025 </dt>
+		    <dd> dialommus fuscus, galapagos four-eyed blenny </dd>
+		    <dd><img src="17.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 16.04.2025 </dt>
+		    <dd> Parabotia curtus  </dd>
+		    <dd><img src="16.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 15.04.2025 </dt>
+		    <dd> Coelorinchus caribbaeus, blackfin grenadier </dd>
+		    <dd><img src="1504.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 14.04.2025 </dt>
+		    <dd> Anchovia surinamensis, Surinam anchovy </dd>
+		    <dd><img src="1404.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 13.04.2025 </dt>
+		    <dd> Parapercis haackei, Wavy grubfish  </dd>
+		    <dd><img src="1304.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 12.04.2025 </dt>
+		    <dd> Guyanancistrus tenuis  </dd>
+		    <dd><img src="1204.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 11.04.2025 </dt>
+		    <dd> Eques punctatus, spotted drum </dd>
+		    <dd><img src="1104.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 10.04.2025 </dt>
+		    <dd> Opistognathus aurifrons, yellowhead jawfish  </dd>
+		    <dd><img src="1004.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 09.04.2025 </dt>
+		    <dd> Bathyraja abyssicola, deepsea skate  </dd>
+		    <dd><img src="0904.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 08.04.2025 </dt>
+		    <dd> Bathrypterois quadrifilis  </dd>
+		    <dd><img src="0804.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 07.04.2025 </dt>
+		    <dd> Jupiaba pinnata  </dd>
+		    <dd><img src="0704.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 06.04.2025 </dt>
+		    <dd> Rhodeus sericeus, Amur bitterling  </dd>
+		    <dd><img src="0604.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 05.04.2025 </dt>
+		    <dd> Pachystomias microdon, smalltooth dragonfish  </dd>
+		    <dd><img src="0504.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 04.04.2025 </dt>
+		    <dd> Emblemaria piratica, Sailfin signal blenny  </dd>
+		    <dd><img src="0404.jpg" alt="fish" width="60%"></dd>
+                    <br>
+
+		    <dt> fish of the day 03.04.2025 </dt>
+		    <dd> Rajella leoparda, leopard skate  </dd>
+		    <dd><img src="0304.jpg" alt="fish" width="60%"></dd>
+                    <br>
+		    <dt> fish of the day 02.04.2025 </dt>
+		    <dd> Saccogaster brayae  </dd>
+		    <dd><img src="0204.jpg" alt="fish" width="60%"></dd>
+                    <br>
+
+		    <dt> fish of the day 01.04.2025 </dt>
+		    <dd> Lepidotrigla pleuracanthica, eastern spiny gurnard   </dd>
+		    <dd><img src="0104.jpg" alt="fish" width="60%"></dd>
+                    <br>
+            <dt> fish of the day 31.png </dt> 
+                       <dd> fish mh </dd> 
+                       <dd> <img src="21.04.3002" alt="fish" width="60%"></dd> 
+                       <br> 
+	    </dl>
+	
+		</header>
+	</div>	
+
+	<div class="header-container">
+		<header>
+	<h2> fish of the year results </h2>
+	<img src="ee.png" alt="elections" width="60%">
+	<br>
+	<h2> fish of the march  results </h2>
+	<img src="2025/03/e.png" alt="elections" width="60%">
+        <br>	
+	</header>
+	</div>
+	<h2> coming soon... </h2>
+	<a href="tabelka.html">History</a>
+    </main>
+    <footer>
+        <p>&copy; 2024 catfisher </p>
+    </footer>
+</body>
+</html>
