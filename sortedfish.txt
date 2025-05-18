@@ -914,3 +914,7 @@ Pomacentrus polyspinus, Thai damsel, 07.05.2025
 Epinephelus morrhua, Comet grouper,, 08.05.2025
 Benthodesmus tenuis, Slender frostfish,, 09.05.2025
 Genicanthus takeuchii, Spotted angelfish, 10.05.2025
+Coelorinchus tokiensis,, 11.05.2025
+Haplochromis vonlinnei, 11.05.2025
+Pseudancistrus sidereus, 13.05.2025
+Thamnaconus modestus, black scraper, 14.05.2025
