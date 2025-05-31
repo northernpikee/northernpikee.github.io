@@ -934,3 +934,4 @@ Pictichromis pophyrea, magneta dottyback, 27.05.2025
 Aulotrachichthys novaezelandicus, 28.05.2025
 Muraena argus, white-spotted moray, 29.05.2025
 Trimma irinae, Irina's pygmygoby, 30.05.2025
+Scatophagus argus, spotted scat, 31.05.2025
