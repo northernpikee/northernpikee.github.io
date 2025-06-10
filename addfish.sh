@@ -4,8 +4,8 @@ FISH="$1"
 PICTURE="$2"
 DATE="$3"
 
-FILE="/home/rybokot/Desktop/northernpikee.github.io/index.html"
-cp "$FILE" "/home/rybokot/Desktop/northernpikee.github.io/prv.html"
+FILE="index.html"
+cp "$FILE" "prv.html"
 N=$(grep -n "</dl>" "$FILE" || cut -d: -f1 )
 TEXT="            <dt> fish of the day $DATE </dt> 
                   <dd> $FISH </dd> 
@@ -18,6 +18,6 @@ awk -v text="$TEXT" ' \
 ' "$FILE" > "$FILE.tmp"
 mv "$FILE.tmp" "$FILE"
 
-echo "$FISH", "$DATE"  >> "/home/rybokot/Desktop/northernpikee.github.io/sortedfish.txt"
+echo "$FISH", "$DATE"  >> "sortedfish.txt"
 
 firefox "$FILE"
