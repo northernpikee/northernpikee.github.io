@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html class="client-nojs skin-theme-clientpref-day mf-expand-sections-clientpref-0 mf-font-size-clientpref-small mw-mf-amc-clientpref-0" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Tetrosomus gibbosus - Wikipedia</title>
+<script>(function(){var className="client-js skin-theme-clientpref-day mf-expand-sections-clientpref-0 mf-font-size-clientpref-small mw-mf-amc-clientpref-0";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c7f9e10a-5276-4e47-8140-f9bc4cd53034","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tetrosomus_gibbosus","wgTitle":"Tetrosomus gibbosus","wgCurRevisionId":1290313188,"wgRevisionId":1290313188,"wgArticleId":20589906,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Tetrosomus_gibbosus","wgRelevantArticleId":20589906,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFMode":"stable","wgMFAmc":false,"wgMFAmcOutreachActive":false,"wgMFAmcOutreachUserEligible":false,"wgMFLazyLoadImages":true,"wgMFEditNoticesFeatureConflict":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgMFIsSupportedEditRequest":true,"wgMFScriptPath":"","wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":9000,"wgMetricsPlatformUserExperiments":{"active_experiments":[],"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[],"sampling_units":[]},"wgEditSubmitButtonLabelPublish":true,"wgSectionTranslationMissingLanguages":[{"lang":"ab","domain":"ab","autonym":"аԥсшәа","dir":"ltr"},{"lang":"ace","domain":"ace","autonym":"Acèh","dir":"ltr"},{"lang":"ady","domain":"ady","autonym":"адыгабзэ","dir":"ltr"},{"lang":"af","domain":"af","autonym":"Afrikaans","dir":"ltr"},{"lang":"alt","domain":"alt","autonym":"алтай тил","dir":"ltr"},{"lang":"am","domain":"am","autonym":"አማርኛ","dir":"ltr"},{"lang":"ami","domain":"ami","autonym":"Pangcah","dir":"ltr"},{"lang":"an","domain":"an","autonym":"aragonés","dir":"ltr"},{"lang":"ang","domain":"ang","autonym":"Ænglisc","dir":"ltr"},{"lang":"ann","domain":"ann","autonym":"Obolo","dir":"ltr"},{"lang":"anp","domain":"anp","autonym":"अंगिका","dir":"ltr"},{"lang":"ar","domain":"ar","autonym":"العربية","dir":"rtl"},{"lang":"arc","domain":"arc","autonym":"ܐܪܡܝܐ","dir":"rtl"},{"lang":"ary","domain":"ary","autonym":"الدارجة","dir":"rtl"},{"lang":"as","domain":"as","autonym":"অসমীয়া","dir":"ltr"},{"lang":"ast","domain":"ast","autonym":"asturianu","dir":"ltr"},{"lang":"atj","domain":"atj","autonym":"Atikamekw","dir":"ltr"},{"lang":"av","domain":"av","autonym":"авар","dir":"ltr"},{"lang":"avk","domain":"avk","autonym":"Kotava","dir":"ltr"},{"lang":"awa","domain":"awa","autonym":"अवधी","dir":"ltr"},{"lang":"ay","domain":"ay","autonym":"Aymar aru","dir":"ltr"},{"lang":"az","domain":"az","autonym":"azərbaycanca","dir":"ltr"},{"lang":"azb","domain":"azb","autonym":"تۆرکجه","dir":"rtl"},{"lang":"ba","domain":"ba","autonym":"башҡортса","dir":"ltr"},{"lang":"ban","domain":"ban","autonym":"Basa Bali","dir":"ltr"},{"lang":"bar","domain":"bar","autonym":"Boarisch","dir":"ltr"},{"lang":"bbc","domain":"bbc","autonym":"Batak Toba","dir":"ltr"},{"lang":"bcl","domain":"bcl","autonym":"Bikol Central","dir":"ltr"},{"lang":"bdr","domain":"bdr","autonym":"Bajau Sama","dir":"ltr"},{"lang":"be","domain":"be","autonym":"беларуская","dir":"ltr"},{"lang":"be-x-old","domain":"be-tarask","autonym":"беларуская (тарашкевіца)","dir":"ltr"},{"lang":"bew","domain":"bew","autonym":"Betawi","dir":"ltr"},{"lang":"bho","domain":"bh","autonym":"भोजपुरी","dir":"ltr"},{"lang":"bi","domain":"bi","autonym":"Bislama","dir":"ltr"},{"lang":"bjn","domain":"bjn","autonym":"Banjar","dir":"ltr"},{"lang":"blk","domain":"blk","autonym":"ပအိုဝ်ႏဘာႏသာႏ","dir":"ltr"},{"lang":"bm","domain":"bm","autonym":"bamanankan","dir":"ltr"},{"lang":"bn","domain":"bn","autonym":"বাংলা","dir":"ltr"},{"lang":"bo","domain":"bo","autonym":"བོད་ཡིག","dir":"ltr"},{"lang":"bpy","domain":"bpy","autonym":"বিষ্ণুপ্রিয়া মণিপুরী","dir":"ltr"},{"lang":"br","domain":"br","autonym":"brezhoneg","dir":"ltr"},{"lang":"bs","domain":"bs","autonym":"bosanski","dir":"ltr"},{"lang":"btm","domain":"btm","autonym":"Batak Mandailing","dir":"ltr"},{"lang":"bug","domain":"bug","autonym":"Basa Ugi","dir":"ltr"},{"lang":"bxr","domain":"bxr","autonym":"буряад","dir":"ltr"},{"lang":"cbk-zam","domain":"cbk-zam","autonym":"Chavacano de Zamboanga","dir":"ltr"},{"lang":"cdo","domain":"cdo","autonym":"閩東語 / Mìng-dĕ̤ng-ngṳ̄","dir":"ltr"},{"lang":"ce","domain":"ce","autonym":"нохчийн","dir":"ltr"},{"lang":"ch","domain":"ch","autonym":"Chamoru","dir":"ltr"},{"lang":"chr","domain":"chr","autonym":"ᏣᎳᎩ","dir":"ltr"},{"lang":"chy","domain":"chy","autonym":"Tsetsêhestâhese","dir":"ltr"},{"lang":"ckb","domain":"ckb","autonym":"کوردی","dir":"rtl"},{"lang":"co","domain":"co","autonym":"corsu","dir":"ltr"},{"lang":"cr","domain":"cr","autonym":"Nēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣ","dir":"ltr"},{"lang":"crh","domain":"crh","autonym":"qırımtatarca","dir":"ltr"},{"lang":"csb","domain":"csb","autonym":"kaszëbsczi","dir":"ltr"},{"lang":"cu","domain":"cu","autonym":"словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ","dir":"ltr"},{"lang":"cv","domain":"cv","autonym":"чӑвашла","dir":"ltr"},{"lang":"cy","domain":"cy","autonym":"Cymraeg","dir":"ltr"},{"lang":"da","domain":"da","autonym":"dansk","dir":"ltr"},{"lang":"dag","domain":"dag","autonym":"dagbanli","dir":"ltr"},{"lang":"dga","domain":"dga","autonym":"Dagaare","dir":"ltr"},{"lang":"din","domain":"din","autonym":"Thuɔŋjäŋ","dir":"ltr"},{"lang":"diq","domain":"diq","autonym":"Zazaki","dir":"ltr"},{"lang":"dsb","domain":"dsb","autonym":"dolnoserbski","dir":"ltr"},{"lang":"dtp","domain":"dtp","autonym":"Kadazandusun","dir":"ltr"},{"lang":"dty","domain":"dty","autonym":"डोटेली","dir":"ltr"},{"lang":"dv","domain":"dv","autonym":"ދިވެހިބަސް","dir":"rtl"},{"lang":"dz","domain":"dz","autonym":"ཇོང་ཁ","dir":"ltr"},{"lang":"ee","domain":"ee","autonym":"eʋegbe","dir":"ltr"},{"lang":"el","domain":"el","autonym":"Ελληνικά","dir":"ltr"},{"lang":"eml","domain":"eml","autonym":"emiliàn e rumagnòl","dir":"ltr"},{"lang":"eo","domain":"eo","autonym":"Esperanto","dir":"ltr"},{"lang":"et","domain":"et","autonym":"eesti","dir":"ltr"},{"lang":"ext","domain":"ext","autonym":"estremeñu","dir":"ltr"},{"lang":"fat","domain":"fat","autonym":"mfantse","dir":"ltr"},{"lang":"ff","domain":"ff","autonym":"Fulfulde","dir":"ltr"},{"lang":"fj","domain":"fj","autonym":"Na Vosa Vakaviti","dir":"ltr"},{"lang":"fo","domain":"fo","autonym":"føroyskt","dir":"ltr"},{"lang":"fon","domain":"fon","autonym":"fɔ̀ngbè","dir":"ltr"},{"lang":"frp","domain":"frp","autonym":"arpetan","dir":"ltr"},{"lang":"frr","domain":"frr","autonym":"Nordfriisk","dir":"ltr"},{"lang":"fur","domain":"fur","autonym":"furlan","dir":"ltr"},{"lang":"fy","domain":"fy","autonym":"Frysk","dir":"ltr"},{"lang":"ga","domain":"ga","autonym":"Gaeilge","dir":"ltr"},{"lang":"gag","domain":"gag","autonym":"Gagauz","dir":"ltr"},{"lang":"gan","domain":"gan","autonym":"贛語","dir":"ltr"},{"lang":"gcr","domain":"gcr","autonym":"kriyòl gwiyannen","dir":"ltr"},{"lang":"gd","domain":"gd","autonym":"Gàidhlig","dir":"ltr"},{"lang":"gl","domain":"gl","autonym":"galego","dir":"ltr"},{"lang":"glk","domain":"glk","autonym":"گیلکی","dir":"rtl"},{"lang":"gn","domain":"gn","autonym":"Avañe'ẽ","dir":"ltr"},{"lang":"gom","domain":"gom","autonym":"गोंयची कोंकणी / Gõychi Konknni","dir":"ltr"},{"lang":"gor","domain":"gor","autonym":"Bahasa Hulontalo","dir":"ltr"},{"lang":"got","domain":"got","autonym":"𐌲𐌿𐍄𐌹𐍃𐌺","dir":"ltr"},{"lang":"gpe","domain":"gpe","autonym":"Ghanaian Pidgin","dir":"ltr"},{"lang":"gsw","domain":"als","autonym":"Alemannisch","dir":"ltr"},{"lang":"gu","domain":"gu","autonym":"ગુજરાતી","dir":"ltr"},{"lang":"guc","domain":"guc","autonym":"wayuunaiki","dir":"ltr"},{"lang":"gur","domain":"gur","autonym":"farefare","dir":"ltr"},{"lang":"guw","domain":"guw","autonym":"gungbe","dir":"ltr"},{"lang":"gv","domain":"gv","autonym":"Gaelg","dir":"ltr"},{"lang":"ha","domain":"ha","autonym":"Hausa","dir":"ltr"},{"lang":"hak","domain":"hak","autonym":"客家語 / Hak-kâ-ngî","dir":"ltr"},{"lang":"haw","domain":"haw","autonym":"Hawaiʻi","dir":"ltr"},{"lang":"he","domain":"he","autonym":"עברית","dir":"rtl"},{"lang":"hi","domain":"hi","autonym":"हिन्दी","dir":"ltr"},{"lang":"hif","domain":"hif","autonym":"Fiji Hindi","dir":"ltr"},{"lang":"hr","domain":"hr","autonym":"hrvatski","dir":"ltr"},{"lang":"hsb","domain":"hsb","autonym":"hornjoserbsce","dir":"ltr"},{"lang":"ht","domain":"ht","autonym":"Kreyòl ayisyen","dir":"ltr"},{"lang":"hy","domain":"hy","autonym":"հայերեն","dir":"ltr"},{"lang":"hyw","domain":"hyw","autonym":"Արեւմտահայերէն","dir":"ltr"},{"lang":"ia","domain":"ia","autonym":"interlingua","dir":"ltr"},{"lang":"iba","domain":"iba","autonym":"Jaku Iban","dir":"ltr"},{"lang":"id","domain":"id","autonym":"Bahasa Indonesia","dir":"ltr"},{"lang":"ie","domain":"ie","autonym":"Interlingue","dir":"ltr"},{"lang":"ig","domain":"ig","autonym":"Igbo","dir":"ltr"},{"lang":"igl","domain":"igl","autonym":"Igala","dir":"ltr"},{"lang":"ik","domain":"ik","autonym":"Iñupiatun","dir":"ltr"},{"lang":"ilo","domain":"ilo","autonym":"Ilokano","dir":"ltr"},{"lang":"inh","domain":"inh","autonym":"гӀалгӀай","dir":"ltr"},{"lang":"io","domain":"io","autonym":"Ido","dir":"ltr"},{"lang":"is","domain":"is","autonym":"íslenska","dir":"ltr"},{"lang":"iu","domain":"iu","autonym":"ᐃᓄᒃᑎᑐᑦ / inuktitut","dir":"ltr"},{"lang":"ja","domain":"ja","autonym":"日本語","dir":"ltr"},{"lang":"jam","domain":"jam","autonym":"Patois","dir":"ltr"},{"lang":"jbo","domain":"jbo","autonym":"la .lojban.","dir":"ltr"},{"lang":"jv","domain":"jv","autonym":"Jawa","dir":"ltr"},{"lang":"ka","domain":"ka","autonym":"ქართული","dir":"ltr"},{"lang":"kaa","domain":"kaa","autonym":"Qaraqalpaqsha","dir":"ltr"},{"lang":"kab","domain":"kab","autonym":"Taqbaylit","dir":"ltr"},{"lang":"kbd","domain":"kbd","autonym":"адыгэбзэ","dir":"ltr"},{"lang":"kbp","domain":"kbp","autonym":"Kabɩyɛ","dir":"ltr"},{"lang":"kcg","domain":"kcg","autonym":"Tyap","dir":"ltr"},{"lang":"kg","domain":"kg","autonym":"Kongo","dir":"ltr"},{"lang":"kge","domain":"kge","autonym":"Kumoring","dir":"ltr"},{"lang":"ki","domain":"ki","autonym":"Gĩkũyũ","dir":"ltr"},{"lang":"kk","domain":"kk","autonym":"қазақша","dir":"ltr"},{"lang":"kl","domain":"kl","autonym":"kalaallisut","dir":"ltr"},{"lang":"km","domain":"km","autonym":"ភាសាខ្មែរ","dir":"ltr"},{"lang":"kn","domain":"kn","autonym":"ಕನ್ನಡ","dir":"ltr"},{"lang":"knc","domain":"knc","autonym":"Yerwa Kanuri","dir":"ltr"},{"lang":"ko","domain":"ko","autonym":"한국어","dir":"ltr"},{"lang":"koi","domain":"koi","autonym":"перем коми","dir":"ltr"},{"lang":"krc","domain":"krc","autonym":"къарачай-малкъар","dir":"ltr"},{"lang":"ks","domain":"ks","autonym":"कॉशुर / کٲشُر","dir":"rtl"},{"lang":"ksh","domain":"ksh","autonym":"Ripoarisch","dir":"ltr"},{"lang":"ku","domain":"ku","autonym":"kurdî","dir":"ltr"},{"lang":"kus","domain":"kus","autonym":"Kʋsaal","dir":"ltr"},{"lang":"kv","domain":"kv","autonym":"коми","dir":"ltr"},{"lang":"kw","domain":"kw","autonym":"kernowek","dir":"ltr"},{"lang":"ky","domain":"ky","autonym":"кыргызча","dir":"ltr"},{"lang":"la","domain":"la","autonym":"Latina","dir":"ltr"},{"lang":"lad","domain":"lad","autonym":"Ladino","dir":"ltr"},{"lang":"lb","domain":"lb","autonym":"Lëtzebuergesch","dir":"ltr"},{"lang":"lbe","domain":"lbe","autonym":"лакку","dir":"ltr"},{"lang":"lez","domain":"lez","autonym":"лезги","dir":"ltr"},{"lang":"lfn","domain":"lfn","autonym":"Lingua Franca Nova","dir":"ltr"},{"lang":"lg","domain":"lg","autonym":"Luganda","dir":"ltr"},{"lang":"li","domain":"li","autonym":"Limburgs","dir":"ltr"},{"lang":"lij","domain":"lij","autonym":"Ligure","dir":"ltr"},{"lang":"lld","domain":"lld","autonym":"Ladin","dir":"ltr"},{"lang":"lmo","domain":"lmo","autonym":"lombard","dir":"ltr"},{"lang":"ln","domain":"ln","autonym":"lingála","dir":"ltr"},{"lang":"lo","domain":"lo","autonym":"ລາວ","dir":"ltr"},{"lang":"lt","domain":"lt","autonym":"lietuvių","dir":"ltr"},{"lang":"ltg","domain":"ltg","autonym":"latgaļu","dir":"ltr"},{"lang":"lv","domain":"lv","autonym":"latviešu","dir":"ltr"},{"lang":"lzh","domain":"zh-classical","autonym":"文言","dir":"ltr"},{"lang":"mad","domain":"mad","autonym":"Madhurâ","dir":"ltr"},{"lang":"mai","domain":"mai","autonym":"मैथिली","dir":"ltr"},{"lang":"map-bms","domain":"map-bms","autonym":"Basa Banyumasan","dir":"ltr"},{"lang":"mdf","domain":"mdf","autonym":"мокшень","dir":"ltr"},{"lang":"mg","domain":"mg","autonym":"Malagasy","dir":"ltr"},{"lang":"mhr","domain":"mhr","autonym":"олык марий","dir":"ltr"},{"lang":"mi","domain":"mi","autonym":"Māori","dir":"ltr"},{"lang":"min","domain":"min","autonym":"Minangkabau","dir":"ltr"},{"lang":"mk","domain":"mk","autonym":"македонски","dir":"ltr"},{"lang":"ml","domain":"ml","autonym":"മലയാളം","dir":"ltr"},{"lang":"mn","domain":"mn","autonym":"монгол","dir":"ltr"},{"lang":"mni","domain":"mni","autonym":"ꯃꯤꯇꯩ ꯂꯣꯟ","dir":"ltr"},{"lang":"mnw","domain":"mnw","autonym":"ဘာသာမန်","dir":"ltr"},{"lang":"mos","domain":"mos","autonym":"moore","dir":"ltr"},{"lang":"mr","domain":"mr","autonym":"मराठी","dir":"ltr"},{"lang":"mrj","domain":"mrj","autonym":"кырык мары","dir":"ltr"},{"lang":"ms","domain":"ms","autonym":"Bahasa Melayu","dir":"ltr"},{"lang":"mt","domain":"mt","autonym":"Malti","dir":"ltr"},{"lang":"mwl","domain":"mwl","autonym":"Mirandés","dir":"ltr"},{"lang":"my","domain":"my","autonym":"မြန်မာဘာသာ","dir":"ltr"},{"lang":"myv","domain":"myv","autonym":"эрзянь","dir":"ltr"},{"lang":"mzn","domain":"mzn","autonym":"مازِرونی","dir":"rtl"},{"lang":"nah","domain":"nah","autonym":"Nāhuatl","dir":"ltr"},{"lang":"nan","domain":"zh-min-nan","autonym":"閩南語 / Bân-lâm-gú","dir":"ltr"},{"lang":"nap","domain":"nap","autonym":"Napulitano","dir":"ltr"},{"lang":"nb","domain":"no","autonym":"norsk bokmål","dir":"ltr"},{"lang":"nds","domain":"nds","autonym":"Plattdüütsch","dir":"ltr"},{"lang":"nds-nl","domain":"nds-nl","autonym":"Nedersaksies","dir":"ltr"},{"lang":"ne","domain":"ne","autonym":"नेपाली","dir":"ltr"},{"lang":"new","domain":"new","autonym":"नेपाल भाषा","dir":"ltr"},{"lang":"nia","domain":"nia","autonym":"Li Niha","dir":"ltr"},{"lang":"nn","domain":"nn","autonym":"norsk nynorsk","dir":"ltr"},{"lang":"nov","domain":"nov","autonym":"Novial","dir":"ltr"},{"lang":"nqo","domain":"nqo","autonym":"ߒߞߏ","dir":"rtl"},{"lang":"nr","domain":"nr","autonym":"isiNdebele seSewula","dir":"ltr"},{"lang":"nrm","domain":"nrm","autonym":"Nouormand","dir":"ltr"},{"lang":"nso","domain":"nso","autonym":"Sesotho sa Leboa","dir":"ltr"},{"lang":"nv","domain":"nv","autonym":"Diné bizaad","dir":"ltr"},{"lang":"ny","domain":"ny","autonym":"Chi-Chewa","dir":"ltr"},{"lang":"oc","domain":"oc","autonym":"occitan","dir":"ltr"},{"lang":"olo","domain":"olo","autonym":"livvinkarjala","dir":"ltr"},{"lang":"om","domain":"om","autonym":"Oromoo","dir":"ltr"},{"lang":"or","domain":"or","autonym":"ଓଡ଼ିଆ","dir":"ltr"},{"lang":"os","domain":"os","autonym":"ирон","dir":"ltr"},{"lang":"pa","domain":"pa","autonym":"ਪੰਜਾਬੀ","dir":"ltr"},{"lang":"pag","domain":"pag","autonym":"Pangasinan","dir":"ltr"},{"lang":"pam","domain":"pam","autonym":"Kapampangan","dir":"ltr"},{"lang":"pap","domain":"pap","autonym":"Papiamentu","dir":"ltr"},{"lang":"pcd","domain":"pcd","autonym":"Picard","dir":"ltr"},{"lang":"pcm","domain":"pcm","autonym":"Naijá","dir":"ltr"},{"lang":"pdc","domain":"pdc","autonym":"Deitsch","dir":"ltr"},{"lang":"pfl","domain":"pfl","autonym":"Pälzisch","dir":"ltr"},{"lang":"pi","domain":"pi","autonym":"पालि","dir":"ltr"},{"lang":"pih","domain":"pih","autonym":"Norfuk / Pitkern","dir":"ltr"},{"lang":"pl","domain":"pl","autonym":"polski","dir":"ltr"},{"lang":"pms","domain":"pms","autonym":"Piemontèis","dir":"ltr"},{"lang":"pnb","domain":"pnb","autonym":"پنجابی","dir":"rtl"},{"lang":"pnt","domain":"pnt","autonym":"Ποντιακά","dir":"ltr"},{"lang":"ps","domain":"ps","autonym":"پښتو","dir":"rtl"},{"lang":"pt","domain":"pt","autonym":"português","dir":"ltr"},{"lang":"pwn","domain":"pwn","autonym":"pinayuanan","dir":"ltr"},{"lang":"qu","domain":"qu","autonym":"Runa Simi","dir":"ltr"},{"lang":"rm","domain":"rm","autonym":"rumantsch","dir":"ltr"},{"lang":"rmy","domain":"rmy","autonym":"romani čhib","dir":"ltr"},{"lang":"rn","domain":"rn","autonym":"ikirundi","dir":"ltr"},{"lang":"ro","domain":"ro","autonym":"română","dir":"ltr"},{"lang":"roa-tara","domain":"roa-tara","autonym":"tarandíne","dir":"ltr"},{"lang":"rsk","domain":"rsk","autonym":"руски","dir":"ltr"},{"lang":"ru","domain":"ru","autonym":"русский","dir":"ltr"},{"lang":"rue","domain":"rue","autonym":"русиньскый","dir":"ltr"},{"lang":"rup","domain":"roa-rup","autonym":"armãneashti","dir":"ltr"},{"lang":"rw","domain":"rw","autonym":"Ikinyarwanda","dir":"ltr"},{"lang":"sa","domain":"sa","autonym":"संस्कृतम्","dir":"ltr"},{"lang":"sah","domain":"sah","autonym":"саха тыла","dir":"ltr"},{"lang":"sat","domain":"sat","autonym":"ᱥᱟᱱᱛᱟᱲᱤ","dir":"ltr"},{"lang":"sc","domain":"sc","autonym":"sardu","dir":"ltr"},{"lang":"scn","domain":"scn","autonym":"sicilianu","dir":"ltr"},{"lang":"sco","domain":"sco","autonym":"Scots","dir":"ltr"},{"lang":"sd","domain":"sd","autonym":"سنڌي","dir":"rtl"},{"lang":"se","domain":"se","autonym":"davvisámegiella","dir":"ltr"},{"lang":"sg","domain":"sg","autonym":"Sängö","dir":"ltr"},{"lang":"sgs","domain":"bat-smg","autonym":"žemaitėška","dir":"ltr"},{"lang":"sh","domain":"sh","autonym":"srpskohrvatski / српскохрватски","dir":"ltr"},{"lang":"shi","domain":"shi","autonym":"Taclḥit","dir":"ltr"},{"lang":"shn","domain":"shn","autonym":"တႆး","dir":"ltr"},{"lang":"si","domain":"si","autonym":"සිංහල","dir":"ltr"},{"lang":"en-simple","domain":"simple","autonym":"Simple English","dir":"ltr"},{"lang":"sk","domain":"sk","autonym":"slovenčina","dir":"ltr"},{"lang":"skr","domain":"skr","autonym":"سرائیکی","dir":"rtl"},{"lang":"sl","domain":"sl","autonym":"slovenščina","dir":"ltr"},{"lang":"sm","domain":"sm","autonym":"Gagana Samoa","dir":"ltr"},{"lang":"smn","domain":"smn","autonym":"anarâškielâ","dir":"ltr"},{"lang":"sn","domain":"sn","autonym":"chiShona","dir":"ltr"},{"lang":"so","domain":"so","autonym":"Soomaaliga","dir":"ltr"},{"lang":"sq","domain":"sq","autonym":"shqip","dir":"ltr"},{"lang":"sr","domain":"sr","autonym":"српски / srpski","dir":"ltr"},{"lang":"srn","domain":"srn","autonym":"Sranantongo","dir":"ltr"},{"lang":"ss","domain":"ss","autonym":"SiSwati","dir":"ltr"},{"lang":"st","domain":"st","autonym":"Sesotho","dir":"ltr"},{"lang":"stq","domain":"stq","autonym":"Seeltersk","dir":"ltr"},{"lang":"su","domain":"su","autonym":"Sunda","dir":"ltr"},{"lang":"sw","domain":"sw","autonym":"Kiswahili","dir":"ltr"},{"lang":"syl","domain":"syl","autonym":"ꠍꠤꠟꠐꠤ","dir":"ltr"},{"lang":"szl","domain":"szl","autonym":"ślůnski","dir":"ltr"},{"lang":"szy","domain":"szy","autonym":"Sakizaya","dir":"ltr"},{"lang":"ta","domain":"ta","autonym":"தமிழ்","dir":"ltr"},{"lang":"tay","domain":"tay","autonym":"Tayal","dir":"ltr"},{"lang":"tcy","domain":"tcy","autonym":"ತುಳು","dir":"ltr"},{"lang":"tdd","domain":"tdd","autonym":"ᥖᥭᥰ ᥖᥬᥲ ᥑᥨᥒᥰ","dir":"ltr"},{"lang":"te","domain":"te","autonym":"తెలుగు","dir":"ltr"},{"lang":"tet","domain":"tet","autonym":"tetun","dir":"ltr"},{"lang":"tg","domain":"tg","autonym":"тоҷикӣ","dir":"ltr"},{"lang":"th","domain":"th","autonym":"ไทย","dir":"ltr"},{"lang":"ti","domain":"ti","autonym":"ትግርኛ","dir":"ltr"},{"lang":"tig","domain":"tig","autonym":"ትግሬ","dir":"ltr"},{"lang":"tk","domain":"tk","autonym":"Türkmençe","dir":"ltr"},{"lang":"tl","domain":"tl","autonym":"Tagalog","dir":"ltr"},{"lang":"tly","domain":"tly","autonym":"tolışi","dir":"ltr"},{"lang":"tn","domain":"tn","autonym":"Setswana","dir":"ltr"},{"lang":"to","domain":"to","autonym":"lea faka-Tonga","dir":"ltr"},{"lang":"tpi","domain":"tpi","autonym":"Tok Pisin","dir":"ltr"},{"lang":"tr","domain":"tr","autonym":"Türkçe","dir":"ltr"},{"lang":"trv","domain":"trv","autonym":"Seediq","dir":"ltr"},{"lang":"ts","domain":"ts","autonym":"Xitsonga","dir":"ltr"},{"lang":"tt","domain":"tt","autonym":"татарча / tatarça","dir":"ltr"},{"lang":"tum","domain":"tum","autonym":"chiTumbuka","dir":"ltr"},{"lang":"tw","domain":"tw","autonym":"Twi","dir":"ltr"},{"lang":"ty","domain":"ty","autonym":"reo tahiti","dir":"ltr"},{"lang":"tyv","domain":"tyv","autonym":"тыва дыл","dir":"ltr"},{"lang":"udm","domain":"udm","autonym":"удмурт","dir":"ltr"},{"lang":"ug","domain":"ug","autonym":"ئۇيغۇرچە / Uyghurche","dir":"rtl"},{"lang":"uk","domain":"uk","autonym":"українська","dir":"ltr"},{"lang":"ur","domain":"ur","autonym":"اردو","dir":"rtl"},{"lang":"uz","domain":"uz","autonym":"oʻzbekcha / ўзбекча","dir":"ltr"},{"lang":"ve","domain":"ve","autonym":"Tshivenda","dir":"ltr"},{"lang":"vec","domain":"vec","autonym":"vèneto","dir":"ltr"},{"lang":"vep","domain":"vep","autonym":"vepsän kel’","dir":"ltr"},{"lang":"vls","domain":"vls","autonym":"West-Vlams","dir":"ltr"},{"lang":"vo","domain":"vo","autonym":"Volapük","dir":"ltr"},{"lang":"vro","domain":"fiu-vro","autonym":"võro","dir":"ltr"},{"lang":"wa","domain":"wa","autonym":"walon","dir":"ltr"},{"lang":"war","domain":"war","autonym":"Winaray","dir":"ltr"},{"lang":"wo","domain":"wo","autonym":"Wolof","dir":"ltr"},{"lang":"wuu","domain":"wuu","autonym":"吴语","dir":"ltr"},{"lang":"xal","domain":"xal","autonym":"хальмг","dir":"ltr"},{"lang":"xh","domain":"xh","autonym":"isiXhosa","dir":"ltr"},{"lang":"xmf","domain":"xmf","autonym":"მარგალური","dir":"ltr"},{"lang":"yi","domain":"yi","autonym":"ייִדיש","dir":"rtl"},{"lang":"yo","domain":"yo","autonym":"Yorùbá","dir":"ltr"},{"lang":"za","domain":"za","autonym":"Vahcuengh","dir":"ltr"},{"lang":"zea","domain":"zea","autonym":"Zeêuws","dir":"ltr"},{"lang":"zgh","domain":"zgh","autonym":"ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ","dir":"ltr"},{"lang":"zu","domain":"zu","autonym":"isiZulu","dir":"ltr"}],"wgSectionTranslationTargetLanguages":["ab","ace","ady","af","alt","am","ami","an","ang","ann","anp","ar","arc","ary","arz","as","ast","atj","av","avk","awa","ay","az","azb","ba","ban","bar","bbc","bcl","bdr","be","be-tarask","bew","bg","bho","bi","bjn","blk","bm","bn","bo","bpy","br","bs","btm","bug","bxr","ca","cbk-zam","cdo","ce","ceb","ch","chr","chy","ckb","co","cr","crh","cs","csb","cu","cv","cy","da","dag","de","dga","din","diq","dsb","dtp","dty","dv","dz","ee","el","eml","en","eo","es","et","eu","ext","fa","fat","ff","fi","fj","fo","fon","fr","frp","frr","fur","fy","ga","gag","gan","gcr","gd","gl","glk","gn","gom","gor","got","gpe","gsw","gu","guc","gur","guw","gv","ha","hak","haw","he","hi","hif","hr","hsb","ht","hu","hy","hyw","ia","iba","id","ie","ig","igl","ik","ilo","inh","io","is","it","iu","ja","jam","jbo","jv","ka","kaa","kab","kbd","kbp","kcg","kg","kge","ki","kk","kl","km","kn","knc","ko","koi","krc","ks","ksh","ku","kus","kv","kw","ky","la","lad","lb","lbe","lez","lfn","lg","li","lij","lld","lmo","ln","lo","lt","ltg","lv","lzh","mad","mai","map-bms","mdf","mg","mhr","mi","min","mk","ml","mn","mni","mnw","mos","mr","mrj","ms","mt","mwl","my","myv","mzn","nah","nan","nap","nb","nds","nds-nl","ne","new","nia","nl","nn","nov","nqo","nr","nrm","nso","nv","ny","oc","olo","om","or","os","pa","pag","pam","pap","pcd","pcm","pdc","pfl","pi","pih","pl","pms","pnb","pnt","ps","pt","pwn","qu","rm","rmy","rn","ro","roa-tara","rsk","ru","rue","rup","rw","sa","sah","sat","sc","scn","sco","sd","se","sg","sgs","sh","shi","shn","si","simple","sk","skr","sl","sm","smn","sn","so","sq","sr","srn","ss","st","stq","su","sv","sw","syl","szl","szy","ta","tay","tcy","tdd","te","tet","tg","th","ti","tig","tk","tl","tly","tn","to","tpi","tr","trv","ts","tt","tum","tw","ty","tyv","udm","ug","uk","ur","uz","ve","vec","vep","vi","vls","vo","vro","wa","war","wo","wuu","xal","xh","xmf","yi","yo","yue","za","zea","zgh","zh","zu"],"isLanguageSearcherCXEntrypointEnabled":true,"mintEntrypointLanguages":["tn","vec","ast","lmo"],"wgWikibaseItemId":"Q690512","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGELevelingUpEnabledForUser":false,"wgMinervaPermissions":{"watchable":true,"watch":false},"wgMinervaFeatures":{"beta":false,"donateBanner":true,"donate":false,"mobileOptionsLink":true,"categories":false,"pageIssues":true,"talkAtTop":true,"historyInPageActions":false,"overflowSubmenu":false,"tabsOnSpecials":true,"personalMenu":false,"mainMenuExpanded":false,"nightMode":true},"wgMinervaDownloadNamespaces":[0]};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.minerva.styles":"ready","skins.minerva.content.styles.images":"ready","mediawiki.hlist":"ready","skins.minerva.codex.styles":"ready","skins.minerva.icons":"ready","skins.minerva.amc.styles":"ready","ext.wikimediamessages.styles":"ready","mobile.init.styles":"ready","ext.relatedArticles.styles":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.xLab","ext.cite.ux-enhancements","site","mediawiki.page.ready","skins.minerva.scripts","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.popups","mobile.init","ext.echo.centralauth","ext.relatedArticles.readMore.bootstrap","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.cx.entrypoints.mffrequentlanguages","ext.cx.entrypoints.languagesearcher.init","mw.externalguidance.init","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.relatedArticles.styles%7Cext.wikimediamessages.styles%7Cmediawiki.hlist%7Cmobile.init.styles%7Cskins.minerva.amc.styles%7Cskins.minerva.codex.styles%7Cskins.minerva.content.styles.images%7Cskins.minerva.icons%2Cstyles%7Cwikibase.client.init&amp;only=styles&amp;skin=minerva">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=minerva"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=minerva">
+<meta name="generator" content="MediaWiki 1.45.0-wmf.4">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="theme-color" content="#eaecf0">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Pez_cofre_jorobado_%28Tetrosomus_gibbosus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_146.jpg/1200px-Pez_cofre_jorobado_%28Tetrosomus_gibbosus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_146.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="800">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Pez_cofre_jorobado_%28Tetrosomus_gibbosus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_146.jpg/960px-Pez_cofre_jorobado_%28Tetrosomus_gibbosus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_146.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="533">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="427">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0">
+<meta property="og:title" content="Tetrosomus gibbosus - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="manifest" href="/w/api.php?action=webapp-manifest">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tetrosomus_gibbosus&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tetrosomus_gibbosus">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Tetrosomus_gibbosus rootpage-Tetrosomus_gibbosus stable issues-group-B skin-minerva action-view skin--responsive mw-mf-amc-disabled mw-mf"><div id="mw-mf-viewport">
+	<div id="mw-mf-page-center">
+		<a class="mw-mf-page-center__mask" href="#"></a>
+		<header class="header-container header-chrome">
+			<div class="minerva-header">
+				<nav class="navigation-drawer toggle-list view-border-box">
+					<input type="checkbox" id="main-menu-input"
+						data-event-name="ui.mainmenu"
+						class="toggle-list__checkbox" role="button" aria-haspopup="true" aria-expanded="false" aria-labelledby="mw-mf-main-menu-button">
+					<label for="main-menu-input" id="mw-mf-main-menu-button" aria-hidden="true" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet toggle-list__toggle">
+    <span class="minerva-icon minerva-icon--menu"></span>
+<span></span>
+</label>
+
+					<div id="mw-mf-page-left" class="menu view-border-box">
+	<ul id="p-navigation" class="toggle-list__list">
+			<li class="toggle-list-item ">
+				<a class="toggle-list-item__anchor menu__item--home" href="/wiki/Main_Page" data-mw="interface">
+					<span class="minerva-icon minerva-icon--home"></span>
+
+					<span class="toggle-list-item__label">Home</span>
+				</a>
+			</li>
+			<li class="toggle-list-item ">
+				<a class="toggle-list-item__anchor menu__item--random" href="/wiki/Special:Random" data-mw="interface">
+					<span class="minerva-icon minerva-icon--die"></span>
+
+					<span class="toggle-list-item__label">Random</span>
+				</a>
+			</li>
+			<li class="toggle-list-item skin-minerva-list-item-jsonly">
+				<a class="toggle-list-item__anchor menu__item--nearby" href="/wiki/Special:Nearby" data-event-name="menu.nearby" data-mw="interface">
+					<span class="minerva-icon minerva-icon--mapPin"></span>
+
+					<span class="toggle-list-item__label">Nearby</span>
+				</a>
+			</li>
+	</ul>
+	<ul id="p-personal" class="toggle-list__list">
+			<li class="toggle-list-item ">
+				<a class="toggle-list-item__anchor mw-list-item menu__item--login" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tetrosomus+gibbosus" data-event-name="menu.login" data-mw="interface">
+					<span class="minerva-icon minerva-icon--logIn"></span>
+
+					<span class="toggle-list-item__label">Log in</span>
+				</a>
+			</li>
+	</ul>
+	<ul id="pt-preferences" class="toggle-list__list">
+			<li class="toggle-list-item skin-minerva-list-item-jsonly">
+				<a class="toggle-list-item__anchor menu__item--settings" href="/w/index.php?title=Special:MobileOptions&amp;returnto=Tetrosomus+gibbosus" data-event-name="menu.settings" data-mw="interface">
+					<span class="minerva-icon minerva-icon--settings"></span>
+
+					<span class="toggle-list-item__label">Settings</span>
+				</a>
+			</li>
+	</ul>
+			<div class="donate-banner">
+				<a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=en.wikipedia.org&amp;uselang=en&amp;wmf_key=minerva" class="donate-banner__link"
+					data-event-name="menu.donateBanner">
+					<div class="donate-banner__text-container">
+						<span class="donate-banner__text">Donate Now</span>
+						<span class="donate-banner__subtitle">If Wikipedia is useful to you, please give today.</span>
+					</div>
+					<picture>
+						<source
+			    			srcset="https://en.wikipedia.org/static/images/donate/donate.png"
+			   				media="(prefers-reduced-motion)" />
+						<img src="https://en.wikipedia.org/static/images/donate/donate.gif" alt="" class="donate-banner__gif" loading="lazy">
+					</picture>
+				</a>
+			</div>
+	<ul class="hlist">
+			<li class="toggle-list-item ">
+				<a class="toggle-list-item__anchor menu__item--about" href="/wiki/Wikipedia:About" data-mw="interface">
+					
+					<span class="toggle-list-item__label">About Wikipedia</span>
+				</a>
+			</li>
+			<li class="toggle-list-item ">
+				<a class="toggle-list-item__anchor menu__item--disclaimers" href="/wiki/Wikipedia:General_disclaimer" data-mw="interface">
+					
+					<span class="toggle-list-item__label">Disclaimers</span>
+				</a>
+			</li>
+	</ul>
+</div>
+
+					<label class="main-menu-mask" for="main-menu-input"></label>
+				</nav>
+				<div class="branding-box">
+					<a href="/wiki/Main_Page">
+						<span><img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" alt="Wikipedia" width="120" height="18"
+	style="width: 7.5em; height: 1.125em;"/>
+
+</span>
+						
+					</a>
+				</div>
+					<form action="/w/index.php" method="get" class="minerva-search-form">
+				<div class="search-box">
+					<input type="hidden" name="title" value="Special:Search"/>
+					<input class="search skin-minerva-search-trigger " id="searchInput"
+						 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" spellcheck="false" title="Search Wikipedia [f]" accesskey="f">
+					<span class="search-box-icon-overlay"><span class="minerva-icon minerva-icon--search"></span>
+</span>
+				</div>
+				<button id="searchIcon" class="cdx-button cdx-button--size-large cdx-button--icon-only cdx-button--weight-quiet skin-minerva-search-trigger">
+	    <span class="minerva-icon minerva-icon--search"></span>
+<span>Search</span>
+	</button>
+</form>
+		<nav class="minerva-user-navigation" aria-label="User navigation">
+					
+				</nav>
+			</div>
+		</header>
+		<main id="content" class="mw-body">
+			<div class="banner-container">
+			<div id="siteNotice"></div>
+			</div>
+			
+			<div class="pre-content heading-holder">
+				<div class="page-heading">
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><i>Tetrosomus gibbosus</i></h1>
+					<div class="tagline"></div>
+				</div>
+					<ul id="p-associated-pages" class="minerva__tab-container">
+							<li class="minerva__tab selected mw-list-item">
+								<a class="minerva__tab-text" href="/wiki/Tetrosomus_gibbosus" rel="" data-event-name="tabs.main">Article</a>
+							</li>
+							<li class="minerva__tab mw-list-item">
+								<a class="minerva__tab-text" href="/wiki/Talk:Tetrosomus_gibbosus" rel="discussion" data-event-name="tabs.talk">Talk</a>
+							</li>
+					</ul>
+				<nav class="page-actions-menu">
+	<ul id="p-views" class="page-actions-menu__list minerva-icon-only-menu">
+		<li id="language-selector" class="page-actions-menu__list-item">
+				<a role="button" href="#p-lang" data-mw="interface" data-event-name="menu.languages" title="Language" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet language-selector">
+				    <span class="minerva-icon minerva-icon--language"></span>
+<span>Language</span>
+				</a>
+		</li>
+		<li id="page-actions-watch" class="page-actions-menu__list-item">
+				<a role="button" id="ca-watch" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tetrosomus+gibbosus" data-event-name="menu.watch" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet menu__item--page-actions-watch">
+				    <span class="minerva-icon minerva-icon--star"></span>
+<span>Watch</span>
+				</a>
+		</li>
+		<li id="page-actions-edit" class="page-actions-menu__list-item">
+				<a role="button" id="ca-edit" href="/w/index.php?title=Tetrosomus_gibbosus&amp;action=edit" data-event-name="menu.edit" data-mw="interface" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet edit-page menu__item--page-actions-edit">
+				    <span class="minerva-icon minerva-icon--edit"></span>
+<span>Edit</span>
+				</a>
+		</li>
+	</ul>
+</nav>
+<!-- version 1.0.2 (change every time you update a partial) -->
+				<div id="mw-content-subtitle"></div>
+			</div>
+			<div id="bodyContent" class="content">
+				<div id="mw-content-text" class="mw-body-content"><script>function mfTempOpenSection(id){var block=document.getElementById("mf-section-"+id);block.className+=" open-block";block.previousSibling.className+=" open-block";}</script><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><section class="mf-section-0" id="mf-section-0">
+<p class="mw-empty-elt">
+</p>
+<p><i><b>Tetrosomus gibbosus</b></i>, commonly called <b>camel cowfish</b> because of the hump on its dorsal keel, is one of 22 species in the boxfish family, <a href="/wiki/Ostraciidae" title="Ostraciidae">Ostraciidae</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> It is a ray finned fish. Other common names include <b>helmet cowfish</b>, <b>humpback turretfish</b> and <b>thornbacked boxfish</b>. It is  most closely related to <i><a href="/wiki/Tetrosomus_reipublicae" class="mw-redirect" title="Tetrosomus reipublicae">T. reipublicae</a></i>, the smallspine turretfish.<sup id="cite_ref-:2_3-0" class="reference"><a href="#cite_note-:2-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> <i>T</i>. <i>gibbosus</i> is a species of <a href="/wiki/Boxfish" class="mw-redirect" title="Boxfish">boxfish</a> found in the wide <a href="/wiki/Indo-West_Pacific" class="mw-redirect" title="Indo-West Pacific">Indo-West Pacific</a>. It has been recorded  since 1988 on rare occasions in the Levantine waters of the <a href="/wiki/Mediterranean_Sea" title="Mediterranean Sea">Mediterranean Sea</a>, likely following entry via the Suez Canal.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">[</span>4<span class="cite-bracket">]</span></a></sup> It is the first species from the family Ostraciidae to be found in the Mediterranean Sea.<sup id="cite_ref-First-Record_5-0" class="reference"><a href="#cite_note-First-Record-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p><table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="color:inherit; text-align: center; background-color: rgb(235,235,210)">Camel cowfish
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Pez_cofre_jorobado_(Tetrosomus_gibbosus),_parque_nacional_Ras_Muhammad,_Egipto,_2022-03-27,_DD_146.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Pez_cofre_jorobado_%28Tetrosomus_gibbosus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_146.jpg/250px-Pez_cofre_jorobado_%28Tetrosomus_gibbosus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_146.jpg" decoding="async" width="250" height="167" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Pez_cofre_jorobado_%28Tetrosomus_gibbosus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_146.jpg/500px-Pez_cofre_jorobado_%28Tetrosomus_gibbosus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_146.jpg 1.5x" data-file-width="3242" data-file-height="2161"></a></span>
+</td></tr>
+
+
+<tr style="color:inherit; text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2"><div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th></tr>
+<tr>
+<td colspan="2"><div style="text-align: center"><span class="mw-default-size skin-invert-image" typeof="mw:File/Frameless"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/250px-Status_iucn3.1_LC.svg.png" decoding="async" width="250" height="67" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/500px-Status_iucn3.1_LC.svg.png 1.5x" data-file-width="512" data-file-height="137"></span></span><br><a href="/wiki/Least_Concern" class="mw-redirect" title="Least Concern">Least Concern</a> <small> (<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-iucn_status_11_November_2021_1-0" class="reference"><a href="#cite_note-iucn_status_11_November_2021-1"><span class="cite-bracket">[</span>1<span class="cite-bracket">]</span></a></sup></small></div>
+</td></tr>
+
+<tr>
+<th colspan="2" style="color:inherit; min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks taxobox-edit-taxonomy skin-invert" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><span typeof="mw:File"><a href="/wiki/Template:Taxonomy/Tetrosomus" title="Edit this classification"><img alt="Edit this classification" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr.svg/20px-OOjs_UI_icon_edit-ltr.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr.svg/23px-OOjs_UI_icon_edit-ltr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr.svg/30px-OOjs_UI_icon_edit-ltr.svg.png 2x" data-file-width="20" data-file-height="20"></a></span></span>
+</th></tr>
+<tr>
+<td>Domain:
+</td>
+<td><a href="/wiki/Eukaryote" title="Eukaryote">Eukaryota</a>
+</td></tr>
+<tr class="taxonrow">
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
+<tr class="taxonrow">
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
+<tr class="taxonrow">
+<td>Class:
+</td>
+<td><a href="/wiki/Actinopterygii" title="Actinopterygii">Actinopterygii</a>
+</td></tr>
+<tr class="taxonrow">
+<td>Order:
+</td>
+<td><a href="/wiki/Tetraodontiformes" title="Tetraodontiformes">Tetraodontiformes</a>
+</td></tr>
+<tr class="taxonrow">
+<td>Family:
+</td>
+<td><a href="/wiki/Ostraciidae" title="Ostraciidae">Ostraciidae</a>
+</td></tr>
+<tr class="taxonrow">
+<td>Genus:
+</td>
+<td><a href="/wiki/Tetrosomus" title="Tetrosomus"><i>Tetrosomus</i></a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="taxonrow">
+<td>Species:
+</td>
+<td><div style="display:inline" class="species"><i><b>T. gibbosus</b></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
+<tr>
+<th colspan="2" style="color:inherit; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">Binomial name</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="binomial"><span style="font-weight:normal;"></span><i>Tetrosomus gibbosus</i></span></b><br><div style="font-size: 85%;">(<a href="/wiki/Carl_Linnaeus" title="Carl Linnaeus">Linnaeus</a>, <a href="/wiki/10th_edition_of_Systema_Naturae" title="10th edition of Systema Naturae">1758</a>)</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table><style data-mw-deduplicate="TemplateStyles:r1289143401">@media(max-width:640px){body:not(.skin-minerva) .mw-parser-output .infobox{width:100%!important}body:not(.skin-minerva) .mw-parser-output .infobox th{width:50%}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox.biota tr{background:transparent!important}html.skin-theme-clientpref-night .mw-parser-output .infobox.biota img{background:transparent}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox.biota tr{background:transparent!important}html.skin-theme-clientpref-os .mw-parser-output .infobox.biota img{background:white}}.mw-parser-output .infobox.biota .taxobox-edit-taxonomy img{background:transparent!important}body.skin-vector .mw-parser-output table.biota.infobox{margin-top:0.5em}body.skin--responsive .mw-parser-output table.biota.infobox tr.taxonrow2 td{padding:2px 10px}</style>
+<p>It carries some value in the <a href="/wiki/Aquarium_trade" class="mw-redirect" title="Aquarium trade">aquarium trade</a>, but is difficult to keep.<sup id="cite_ref-:3_6-0" class="reference"><a href="#cite_note-:3-6"><span class="cite-bracket">[</span>6<span class="cite-bracket">]</span></a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none"><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Biology"><span class="tocnumber">2</span> <span class="toctext">Biology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Distribution_and_habitat"><span class="tocnumber">3</span> <span class="toctext">Distribution and habitat</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Lessepsian_migration"><span class="tocnumber">4</span> <span class="toctext">Lessepsian migration</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+</section><div class="mw-heading mw-heading2 section-heading" onclick="mfTempOpenSection(1)"><span class="indicator mf-icon mf-icon-expand mf-icon--small"></span><h2 id="Description">Description</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=Tetrosomus_gibbosus&amp;action=edit&amp;section=1" title="Edit section: Description" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>edit</span>
+</a>
+
+</span>
+
+</div><section class="mf-section-1 collapsible-block" id="mf-section-1">
+<figure class="mw-halign-right" typeof="mw:File/Frameless"><a href="/wiki/File:Humpback_Turretfish_-_Tetrosomus_gibbosus_2.jpg" class="mw-file-description"><noscript><img alt="Front view" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Humpback_Turretfish_-_Tetrosomus_gibbosus_2.jpg/330px-Humpback_Turretfish_-_Tetrosomus_gibbosus_2.jpg" decoding="async" width="300" height="275" class="mw-file-element" data-file-width="655" data-file-height="600"></noscript><span class="lazy-image-placeholder" style="width: 300px;height: 275px;" data-mw-src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Humpback_Turretfish_-_Tetrosomus_gibbosus_2.jpg/330px-Humpback_Turretfish_-_Tetrosomus_gibbosus_2.jpg" data-alt="Front view" data-width="300" data-height="275" data-mw-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Humpback_Turretfish_-_Tetrosomus_gibbosus_2.jpg/500px-Humpback_Turretfish_-_Tetrosomus_gibbosus_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Humpback_Turretfish_-_Tetrosomus_gibbosus_2.jpg/600px-Humpback_Turretfish_-_Tetrosomus_gibbosus_2.jpg 2x" data-class="mw-file-element">&nbsp;</span></a><figcaption></figcaption></figure>
+<p><i>T. gibbosus</i> is normally around 20 centimetres (7.9 in) long when it is fully grown, but can reach up to 30 centimetres (12 in) in length.<sup id="cite_ref-:0_7-0" class="reference"><a href="#cite_note-:0-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Fish in the genus <i><a href="/wiki/Tetrosomus" title="Tetrosomus">Tetrosomus</a></i> are characterized by the presence of a carapace, a hard upper shell formed by thick scale plates.<sup id="cite_ref-:2_3-1" class="reference"><a href="#cite_note-:2-3"><span class="cite-bracket">[</span>3<span class="cite-bracket">]</span></a></sup> The body is completely encased in this bony shell, except for a few small openings such as the mouth, eyes, and gills.<sup id="cite_ref-:12_8-0" class="reference"><a href="#cite_note-:12-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> The mouth is small with fleshy lips and <a href="/wiki/Conical" class="mw-redirect" title="Conical">conical</a> teeth usually numbering less than 15.<sup id="cite_ref-:12_8-1" class="reference"><a href="#cite_note-:12-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup>
+</p>
+</section><div class="mw-heading mw-heading2 section-heading" onclick="mfTempOpenSection(2)"><span class="indicator mf-icon mf-icon-expand mf-icon--small"></span><h2 id="Biology">Biology</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=Tetrosomus_gibbosus&amp;action=edit&amp;section=2" title="Edit section: Biology" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>edit</span>
+</a>
+
+</span>
+
+</div><section class="mf-section-2 collapsible-block" id="mf-section-2">
+<p><i>T. gibbosus</i> has poisonous flesh, organs, and spines, and is known to secret poisonous mucus in defense or when it is disturbed.<sup id="cite_ref-:0_7-1" class="reference"><a href="#cite_note-:0-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> This poison can be fatal to humans or other marine organisms that come into contact with it.<sup id="cite_ref-:0_7-2" class="reference"><a href="#cite_note-:0-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> <i>T. gibbosus</i> is <a href="/wiki/Hermaphrodite" title="Hermaphrodite">hermaphroditic</a>; all individuals of this species are born female, but some may change into males as they grow.<sup id="cite_ref-:0_7-3" class="reference"><a href="#cite_note-:0-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> Juveniles live together in small schools, but individuals become solitary as they mature into adulthood.<sup id="cite_ref-:0_7-4" class="reference"><a href="#cite_note-:0-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup> <i>T. gibbosus</i> is an omnivorous species, and its diet is known to include seaweeds, sponges, molluscs, worms, and crustaceans found on the bottom of its habitat.<sup id="cite_ref-:0_7-5" class="reference"><a href="#cite_note-:0-7"><span class="cite-bracket">[</span>7<span class="cite-bracket">]</span></a></sup>
+</p>
+</section><div class="mw-heading mw-heading2 section-heading" onclick="mfTempOpenSection(3)"><span class="indicator mf-icon mf-icon-expand mf-icon--small"></span><h2 id="Distribution_and_habitat">Distribution and habitat</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=Tetrosomus_gibbosus&amp;action=edit&amp;section=3" title="Edit section: Distribution and habitat" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>edit</span>
+</a>
+
+</span>
+
+</div><section class="mf-section-3 collapsible-block" id="mf-section-3">
+<p><i>T. gibbosus</i> lives in shallow tropical waters or warm seas with muddy bottoms and can sometimes be seen near shallow <a href="/wiki/Seagrass" title="Seagrass">seagrass</a> beds.<sup id="cite_ref-fishbase_9-0" class="reference"><a href="#cite_note-fishbase-9"><span class="cite-bracket">[</span>9<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-:12_8-2" class="reference"><a href="#cite_note-:12-8"><span class="cite-bracket">[</span>8<span class="cite-bracket">]</span></a></sup> It is also found in coral reefs.<sup id="cite_ref-:5_10-0" class="reference"><a href="#cite_note-:5-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup> It is considered an endangered species in the South China Sea.<sup id="cite_ref-:5_10-1" class="reference"><a href="#cite_note-:5-10"><span class="cite-bracket">[</span>10<span class="cite-bracket">]</span></a></sup>
+</p>
+</section><div class="mw-heading mw-heading2 section-heading" onclick="mfTempOpenSection(4)"><span class="indicator mf-icon mf-icon-expand mf-icon--small"></span><h2 id="Lessepsian_migration">Lessepsian migration</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=Tetrosomus_gibbosus&amp;action=edit&amp;section=4" title="Edit section: Lessepsian migration" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>edit</span>
+</a>
+
+</span>
+
+</div><section class="mf-section-4 collapsible-block" id="mf-section-4">
+<p>A <a href="/wiki/Lessepsian_migration" title="Lessepsian migration">Lessepsian migration</a> refers to the migration of a marine species from the Red Sea to the Mediterranean Sea, facilitated by the opening of the Suez Canal in 1869. A species is considered Lessepsian when it has completed this migration and established a population. <i>T. gibbosus</i> was first found in the Mediterranean Sea in 1988.<sup id="cite_ref-:6_11-0" class="reference"><a href="#cite_note-:6-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> Both the Red Sea and the Mediterranean Sea have similar salinity levels and temperature ranges, which allows for an easier transition between of these bodies of water.<sup id="cite_ref-:7_12-0" class="reference"><a href="#cite_note-:7-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup><sup id="cite_ref-First-Record_5-1" class="reference"><a href="#cite_note-First-Record-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> It is thought that Lessepsian species migrated due to changing climates, since the geographic land barrier was removed when the Suez Canal was completed.<sup id="cite_ref-:6_11-1" class="reference"><a href="#cite_note-:6-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> <i>T. gibbosus</i> is now considered an invasive species in the Mediterranean Sea, as this is not included in its native distribution.<sup id="cite_ref-:6_11-2" class="reference"><a href="#cite_note-:6-11"><span class="cite-bracket">[</span>11<span class="cite-bracket">]</span></a></sup> It is also considered an established species because it has established a growing population and has been found in multiple locations.<sup id="cite_ref-:7_12-1" class="reference"><a href="#cite_note-:7-12"><span class="cite-bracket">[</span>12<span class="cite-bracket">]</span></a></sup> It is the first species from the family Ostraciidae to be found in the Mediterranean Sea.<sup id="cite_ref-First-Record_5-2" class="reference"><a href="#cite_note-First-Record-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup> Due to its inability to swim long distances, <i>T. gibbosus</i> likely took multiple generations to migrate from the Red Sea to the Mediterranean Sea; this is thought to have happened, in part, from northward currents moving eggs and larvae north towards the Mediterranean Sea.<sup id="cite_ref-First-Record_5-3" class="reference"><a href="#cite_note-First-Record-5"><span class="cite-bracket">[</span>5<span class="cite-bracket">]</span></a></sup>
+</p>
+</section><div class="mw-heading mw-heading2 section-heading" onclick="mfTempOpenSection(5)"><span class="indicator mf-icon mf-icon-expand mf-icon--small"></span><h2 id="References">References</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=Tetrosomus_gibbosus&amp;action=edit&amp;section=5" title="Edit section: References" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>edit</span>
+</a>
+
+</span>
+
+</div><section class="mf-section-5 collapsible-block" id="mf-section-5">
+<style data-mw-deduplicate="TemplateStyles:r1239543626">.mw-parser-output .reflist{margin-bottom:0.5em;list-style-type:decimal}@media screen{.mw-parser-output .reflist{font-size:90%}}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-iucn_status_11_November_2021-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-iucn_status_11_November_2021_1-0">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1238218222">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</style><cite id="CITEREFMatsuura,_K.2010" class="citation journal cs1">Matsuura, K. (2010). <a rel="nofollow" class="external text" href="https://www.iucnredlist.org/species/154933/4671390">"<i>Tetrosomus gibbosus</i>"</a>. <i><a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN Red List of Threatened Species</a></i>. <b>2010</b>: e.T154933A4671390. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.2305%2FIUCN.UK.2010-4.RLTS.T154933A4671390.en">10.2305/IUCN.UK.2010-4.RLTS.T154933A4671390.en</a></span><span class="reference-accessdate">. Retrieved <span class="nowrap">11 November</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IUCN+Red+List+of+Threatened+Species&amp;rft.atitle=Tetrosomus+gibbosus&amp;rft.volume=2010&amp;rft.pages=e.T154933A4671390&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.2305%2FIUCN.UK.2010-4.RLTS.T154933A4671390.en&amp;rft.au=Matsuura%2C+K.&amp;rft_id=https%3A%2F%2Fwww.iucnredlist.org%2Fspecies%2F154933%2F4671390&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrosomus+gibbosus" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFMatsuura2014" class="citation journal cs1">Matsuura, Keiichi (11 November 2014). <a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs10228-014-0444-5">"Taxonomy and systematics of tetraodontiform fishes: a review focusing primarily on progress in the period from 1980 to 2014"</a>. <i><a href="/wiki/Ichthyological_Research" title="Ichthyological Research">Ichthyological Research</a></i>. <b>62</b> (1): <span class="nowrap">72–</span>113. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs10228-014-0444-5">10.1007/s10228-014-0444-5</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ichthyological+Research&amp;rft.atitle=Taxonomy+and+systematics+of+tetraodontiform+fishes%3A+a+review+focusing+primarily+on+progress+in+the+period+from+1980+to+2014&amp;rft.volume=62&amp;rft.issue=1&amp;rft.pages=72-113&amp;rft.date=2014-11-11&amp;rft_id=info%3Adoi%2F10.1007%2Fs10228-014-0444-5&amp;rft.aulast=Matsuura&amp;rft.aufirst=Keiichi&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1007%252Fs10228-014-0444-5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrosomus+gibbosus" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:2-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFSantiniSorensonMarcroftDornburg2013" class="citation journal cs1">Santini, Francesco; Sorenson, Laurie; Marcroft, Tina; Dornburg, Alex; Alfaro, Michael E. (January 2013). "A multilocus molecular phylogeny of boxfishes (Aracanidae, Ostraciidae; Tetraodontiformes)". <i><a href="/wiki/Molecular_Phylogenetics_and_Evolution" title="Molecular Phylogenetics and Evolution">Molecular Phylogenetics and Evolution</a></i>. <b>66</b> (1): <span class="nowrap">153–</span>160. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2013MolPE..66..153S">2013MolPE..66..153S</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.ympev.2012.09.022">10.1016/j.ympev.2012.09.022</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a> <a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/23036494">23036494</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Molecular+Phylogenetics+and+Evolution&amp;rft.atitle=A+multilocus+molecular+phylogeny+of+boxfishes+%28Aracanidae%2C+Ostraciidae%3B+Tetraodontiformes%29&amp;rft.volume=66&amp;rft.issue=1&amp;rft.pages=153-160&amp;rft.date=2013-01&amp;rft_id=info%3Apmid%2F23036494&amp;rft_id=info%3Adoi%2F10.1016%2Fj.ympev.2012.09.022&amp;rft_id=info%3Abibcode%2F2013MolPE..66..153S&amp;rft.aulast=Santini&amp;rft.aufirst=Francesco&amp;rft.au=Sorenson%2C+Laurie&amp;rft.au=Marcroft%2C+Tina&amp;rft.au=Dornburg%2C+Alex&amp;rft.au=Alfaro%2C+Michael+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrosomus+gibbosus" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Atlas of Exotic Fishes in the Mediterranean Sea (<i>Tetrosomus gibbosus</i>). 2nd Edition. 2021. 366p. <a href="/w/index.php?title=CIESM_Publishers&amp;action=edit&amp;redlink=1" class="new" title="CIESM Publishers (page does not exist)">CIESM Publishers</a>, Paris, Monaco.<a rel="nofollow" class="external free" href="https://ciesm.org/atlas/fishes_2nd_edition/Tetrosomus_gibbosus.pdf">https://ciesm.org/atlas/fishes_2nd_edition/Tetrosomus_gibbosus.pdf</a></span>
+</li>
+<li id="cite_note-First-Record-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-First-Record_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-First-Record_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-First-Record_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-First-Record_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">
+<dl><dd><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFFokaEconomidis2007" class="citation journal cs1">Foka, Maria; Economidis, Panos (2007). <a rel="nofollow" class="external text" href="https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/12135">"Allochthonous and vagrant ichthyofauna in Hellenic marine and estuarine waters"</a>. <i><a href="/wiki/Mediterranean_Marine_Science" title="Mediterranean Marine Science">Mediterranean Marine Science</a></i>. <b>8</b> (1). Hellenic Centre for Marine Research: <span class="nowrap">67–</span>90. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2007MedMS...8...67C">2007MedMS...8...67C</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.12681%2FMMS.163">10.12681/MMS.163</a></span>. <a href="/wiki/EISSN_(identifier)" class="mw-redirect" title="EISSN (identifier)">eISSN</a> <a rel="nofollow" class="external text" href="https://search.worldcat.org/issn/1108-393X">1108-393X</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a> <a rel="nofollow" class="external text" href="https://search.worldcat.org/issn/1791-6763">1791-6763</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a> <a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:83666960">83666960</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mediterranean+Marine+Science&amp;rft.atitle=Allochthonous+and+vagrant+ichthyofauna+in+Hellenic+marine+and+estuarine+waters&amp;rft.volume=8&amp;rft.issue=1&amp;rft.pages=67-90&amp;rft.date=2007&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A83666960%23id-name%3DS2CID&amp;rft.eissn=1108-393X&amp;rft_id=info%3Abibcode%2F2007MedMS...8...67C&amp;rft.issn=1791-6763&amp;rft_id=info%3Adoi%2F10.12681%2FMMS.163&amp;rft.aulast=Foka&amp;rft.aufirst=Maria&amp;rft.au=Economidis%2C+Panos&amp;rft_id=https%3A%2F%2Fejournals.epublishing.ekt.gr%2Findex.php%2Fhcmr-med-mar-sc%2Farticle%2Fview%2F12135&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrosomus+gibbosus" class="Z3988"></span></dd>
+<dd></dd>
+<dd>This review cites this research.</dd>
+<dd></dd>
+<dd><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFSpanierGoren1988" class="citation journal cs1">Spanier, E.; Goren, M. (May 1988). "An Indo-Pacific trunkfish <i>Tetrosomus gibbosus</i> (Linnaeus): first record of the family Ostracionidae in the Mediterranean". <i><a href="/wiki/Journal_of_Fish_Biology" title="Journal of Fish Biology">Journal of Fish Biology</a></i>. <b>32</b> (5): <span class="nowrap">797–</span>798. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1988JFBio..32..797S">1988JFBio..32..797S</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1095-8649.1988.tb05420.x">10.1111/j.1095-8649.1988.tb05420.x</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a> <a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:84396752">84396752</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Fish+Biology&amp;rft.atitle=An+Indo-Pacific+trunkfish+Tetrosomus+gibbosus+%28Linnaeus%29%3A+first+record+of+the+family+Ostracionidae+in+the+Mediterranean&amp;rft.volume=32&amp;rft.issue=5&amp;rft.pages=797-798&amp;rft.date=1988-05&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A84396752%23id-name%3DS2CID&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1095-8649.1988.tb05420.x&amp;rft_id=info%3Abibcode%2F1988JFBio..32..797S&amp;rft.aulast=Spanier&amp;rft.aufirst=E.&amp;rft.au=Goren%2C+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrosomus+gibbosus" class="Z3988"></span></dd></dl>
+</span></li>
+<li id="cite_note-:3-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-:3_6-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.liveaquaria.com/product/prod_display.cfm?c=15+24+65&amp;pcatid=65">"Saltwater Aquarium Fish for Marine Aquariums: Helmet Cowfish"</a>. <i>www.liveaquaria.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.liveaquaria.com&amp;rft.atitle=Saltwater+Aquarium+Fish+for+Marine+Aquariums%3A+Helmet+Cowfish&amp;rft_id=https%3A%2F%2Fwww.liveaquaria.com%2Fproduct%2Fprod_display.cfm%3Fc%3D15%2B24%2B65%26pcatid%3D65&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrosomus+gibbosus" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:0_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:0_7-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:0_7-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:0_7-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFKetabiJamili" class="citation web cs1">Ketabi, Ramin; Jamili, Shahla. <a rel="nofollow" class="external text" href="http://aquaticcommons.org/21215/">"<i>Tetrosomus gibbosus</i> (Linnaeus, 1758)"</a>. <i>aquaticcommons.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=aquaticcommons.org&amp;rft.atitle=Tetrosomus+gibbosus+%28Linnaeus%2C+1758%29&amp;rft.aulast=Ketabi&amp;rft.aufirst=Ramin&amp;rft.au=Jamili%2C+Shahla&amp;rft_id=http%3A%2F%2Faquaticcommons.org%2F21215%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrosomus+gibbosus" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:12-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-:12_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:12_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:12_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFMatsuura2014" class="citation journal cs1">Matsuura, Keiichi (11 November 2014). <a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs10228-014-0444-5">"Taxonomy and systematics of tetraodontiform fishes: a review focusing primarily on progress in the period from 1980 to 2014"</a>. <i><a href="/wiki/Ichthyological_Research" title="Ichthyological Research">Ichthyological Research</a></i>. <b>62</b> (1): <span class="nowrap">72–</span>113. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs10228-014-0444-5">10.1007/s10228-014-0444-5</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ichthyological+Research&amp;rft.atitle=Taxonomy+and+systematics+of+tetraodontiform+fishes%3A+a+review+focusing+primarily+on+progress+in+the+period+from+1980+to+2014&amp;rft.volume=62&amp;rft.issue=1&amp;rft.pages=72-113&amp;rft.date=2014-11-11&amp;rft_id=info%3Adoi%2F10.1007%2Fs10228-014-0444-5&amp;rft.aulast=Matsuura&amp;rft.aufirst=Keiichi&amp;rft_id=https%3A%2F%2Fdoi.org%2F10.1007%252Fs10228-014-0444-5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrosomus+gibbosus" class="Z3988"></span></span>
+</li>
+<li id="cite_note-fishbase-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-fishbase_9-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFFroesePauly2015" class="citation web cs1"><a href="/wiki/Rainer_Froese" title="Rainer Froese">Froese, Rainer</a>; <a href="/wiki/Daniel_Pauly" title="Daniel Pauly">Pauly, Daniel</a>, eds. (2015). <a rel="nofollow" class="external text" href="http://www.fishbase.org/summary/SpeciesSummary.php?genusname=Tetrosomus&amp;speciesname=gibbosus">"<i>Tetrosomus gibbosus</i>"</a>. <i><a href="/wiki/FishBase" title="FishBase">FishBase</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FishBase&amp;rft.atitle=Tetrosomus+gibbosus&amp;rft.date=2015&amp;rft_id=http%3A%2F%2Fwww.fishbase.org%2Fsummary%2FSpeciesSummary.php%3Fgenusname%3DTetrosomus%26speciesname%3Dgibbosus&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrosomus+gibbosus" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:5-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-:5_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:5_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFArai2014" class="citation journal cs1">Arai, Takaomi (12 September 2014). "Diversity and conservation of coral reef fishes in the Malaysian South China Sea". <i><a href="/w/index.php?title=Reviews_in_Fish_Biology_and_Fisheries&amp;action=edit&amp;redlink=1" class="new" title="Reviews in Fish Biology and Fisheries (page does not exist)">Reviews in Fish Biology and Fisheries</a></i>. <b>25</b> (1): <span class="nowrap">85–</span>101. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs11160-014-9371-9">10.1007/s11160-014-9371-9</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a> <a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:14711917">14711917</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reviews+in+Fish+Biology+and+Fisheries&amp;rft.atitle=Diversity+and+conservation+of+coral+reef+fishes+in+the+Malaysian+South+China+Sea&amp;rft.volume=25&amp;rft.issue=1&amp;rft.pages=85-101&amp;rft.date=2014-09-12&amp;rft_id=info%3Adoi%2F10.1007%2Fs11160-014-9371-9&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A14711917%23id-name%3DS2CID&amp;rft.aulast=Arai&amp;rft.aufirst=Takaomi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrosomus+gibbosus" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:6-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-:6_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:6_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:6_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFBen_Rais_LasramMouillot2008" class="citation journal cs1">Ben Rais Lasram, Frida; Mouillot, David (27 May 2008). "Increasing southern invasion enhances congruence between endemic and exotic Mediterranean fish fauna". <i><a href="/wiki/Biological_Invasions" title="Biological Invasions">Biological Invasions</a></i>. <b>11</b> (3): <span class="nowrap">697–</span>711. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs10530-008-9284-4">10.1007/s10530-008-9284-4</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a> <a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:24327290">24327290</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biological+Invasions&amp;rft.atitle=Increasing+southern+invasion+enhances+congruence+between+endemic+and+exotic+Mediterranean+fish+fauna&amp;rft.volume=11&amp;rft.issue=3&amp;rft.pages=697-711&amp;rft.date=2008-05-27&amp;rft_id=info%3Adoi%2F10.1007%2Fs10530-008-9284-4&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A24327290%23id-name%3DS2CID&amp;rft.aulast=Ben+Rais+Lasram&amp;rft.aufirst=Frida&amp;rft.au=Mouillot%2C+David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrosomus+gibbosus" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:7-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-:7_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:7_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1238218222"><cite id="CITEREFMavrukAvsar2007" class="citation journal cs1">Mavruk, Sinan; Avsar, Dursun (14 August 2007). "Non-native fishes in the Mediterranean from the Red Sea, by way of the Suez Canal". <i><a href="/w/index.php?title=Reviews_in_Fish_Biology_and_Fisheries&amp;action=edit&amp;redlink=1" class="new" title="Reviews in Fish Biology and Fisheries (page does not exist)">Reviews in Fish Biology and Fisheries</a></i>. <b>18</b> (3): <span class="nowrap">251–</span>262. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs11160-007-9073-7">10.1007/s11160-007-9073-7</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a> <a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:43648595">43648595</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reviews+in+Fish+Biology+and+Fisheries&amp;rft.atitle=Non-native+fishes+in+the+Mediterranean+from+the+Red+Sea%2C+by+way+of+the+Suez+Canal&amp;rft.volume=18&amp;rft.issue=3&amp;rft.pages=251-262&amp;rft.date=2007-08-14&amp;rft_id=info%3Adoi%2F10.1007%2Fs11160-007-9073-7&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A43648595%23id-name%3DS2CID&amp;rft.aulast=Mavruk&amp;rft.aufirst=Sinan&amp;rft.au=Avsar%2C+Dursun&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATetrosomus+gibbosus" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+</section><div class="mw-heading mw-heading2 section-heading" onclick="mfTempOpenSection(6)"><span class="indicator mf-icon mf-icon-expand mf-icon--small"></span><h2 id="External_links">External links</h2><span class="mw-editsection">
+<a role="button" href="/w/index.php?title=Tetrosomus_gibbosus&amp;action=edit&amp;section=6" title="Edit section: External links" class="cdx-button cdx-button--size-large cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--icon-only cdx-button--weight-quiet ">
+    <span class="minerva-icon minerva-icon--edit"></span>
+<span>edit</span>
+</a>
+
+</span>
+
+</div><section class="mf-section-6 collapsible-block" id="mf-section-6">
+<style data-mw-deduplicate="TemplateStyles:r1290876196">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:var(--background-color-interactive-subtle,#f8f9fa);display:flow-root}.mw-parser-output .infobox .side-box{font-size:100%}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><style data-mw-deduplicate="TemplateStyles:r1237033735">@media print{body.ns-0 .mw-parser-output .sistersitebox{display:none!important}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sistersitebox img[src*="Wiktionary-logo-en-v2.svg"]{background-color:white}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Commons-logo.svg" class="mw-file-description"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" data-file-width="1024" data-file-height="1376"></noscript><span class="lazy-image-placeholder" style="width: 30px;height: 40px;" data-mw-src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png" data-alt="" data-width="30" data-height="40" data-mw-srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png 1.5x" data-class="mw-file-element">&nbsp;</span></a></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Tetrosomus_gibbosus" class="extiw" title="commons:Category:Tetrosomus gibbosus">Tetrosomus gibbosus</a></span>.</div></div>
+</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1290876196"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1237033735"><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409">
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Wikispecies-logo.svg" class="mw-file-description"><noscript><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/40px-Wikispecies-logo.svg.png" decoding="async" width="34" height="40" class="mw-file-element" data-file-width="941" data-file-height="1103"></noscript><span class="lazy-image-placeholder" style="width: 34px;height: 40px;" data-mw-src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/40px-Wikispecies-logo.svg.png" data-alt="" data-width="34" data-height="40" data-mw-srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/60px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/120px-Wikispecies-logo.svg.png 2x" data-class="mw-file-element">&nbsp;</span></a></span></div>
+<div class="side-box-text plainlist"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to <i><b><a href="https://species.wikimedia.org/wiki/Tetrosomus_gibbosus" class="extiw" title="wikispecies:Tetrosomus gibbosus">Tetrosomus gibbosus</a></b></i>.</div></div>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="https://fishesofaustralia.net.au/home/species/843">Humpback Turretfish</a> @ Fishes of Australia</li></ul>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1236075235">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</style></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐6fb68b447f‐7mtbh
+Cached time: 20250526100821
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.720 seconds
+Real time usage: 0.909 seconds
+Preprocessor visited node count: 7820/1000000
+Revision size: 9124/2097152 bytes
+Post‐expand include size: 59491/2097152 bytes
+Template argument size: 6404/2097152 bytes
+Highest expansion depth: 21/100
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 58988/5000000 bytes
+Lua time usage: 0.544/10.000 seconds
+Lua memory usage: 8778072/52428800 bytes
+Number of Wikibase entities loaded: 17/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  849.536      1 -total
+ 35.88%  304.823      1 Template:Speciesbox
+ 35.24%  299.400      1 Template:Taxobox/core
+ 24.50%  208.094      1 Template:Taxonbar
+ 21.57%  183.257      1 Template:Reflist
+  9.78%   83.051      1 Template:Cite_iucn
+  7.82%   66.451      1 Template:Short_description
+  6.53%   55.480      8 Template:Cite_journal
+  5.97%   50.700      1 Template:Commons_category
+  5.93%   50.341      2 Template:Sister_project
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:20589906:|#|:idhash:canonical and timestamp 20250526100821 and revision id 1290313188. Rendering was triggered because: page-view
+ -->
+</section></div>
+<!-- MobileFormatter took 0.007 seconds --><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://en.m.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tetrosomus_gibbosus&amp;oldid=1290313188">https://en.wikipedia.org/w/index.php?title=Tetrosomus_gibbosus&amp;oldid=1290313188</a>"</div></div>
+				
+			</div>
+			<div class="post-content" id="page-secondary-actions">
+			</div>
+		</main>
+		<footer class="mw-footer minerva-footer" role="contentinfo">
+		  <a class="last-modified-bar" href="/w/index.php?title=Tetrosomus_gibbosus&amp;action=history">
+  	<div class="post-content last-modified-bar__content">
+  		 <span class="minerva-icon minerva-icon-size-medium minerva-icon--modified-history"></span>
+ 
+  		<span class="last-modified-bar__text modified-enhancement"
+  				data-user-name="Citation bot"
+  				data-user-gender="unknown"
+  				data-timestamp="1747186214">
+  				<span>Last edited on 14 May 2025, at 01:30</span>
+  		</span>
+  		 <span class="minerva-icon minerva-icon-size-small minerva-icon--expand"></span>
+ 
+  	</div>
+  </a>
+	<div class="post-content footer-content">
+			<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+			<div id="p-lang">
+	    <h4>Languages</h4>
+	    <section>
+	        <ul id="p-variants" class="minerva-languages"></ul>
+	        <ul class="minerva-languages"><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/Tetrosomus_gibbosus" title="Tetrosomus gibbosus – Bulgarian" lang="bg" hreflang="bg" data-title="Tetrosomus gibbosus" data-language-autonym="Български" data-language-local-name="Bulgarian" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Tetrosomus_gibbosus" title="Tetrosomus gibbosus – Catalan" lang="ca" hreflang="ca" data-title="Tetrosomus gibbosus" data-language-autonym="Català" data-language-local-name="Catalan" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Tetrosomus_gibbosus" title="Tetrosomus gibbosus – Cebuano" lang="ceb" hreflang="ceb" data-title="Tetrosomus gibbosus" data-language-autonym="Cebuano" data-language-local-name="Cebuano" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Hav%C3%BD%C5%A1_%C4%8Dty%C5%99hrann%C3%BD" title="Havýš čtyřhranný – Czech" lang="cs" hreflang="cs" data-title="Havýš čtyřhranný" data-language-autonym="Čeština" data-language-local-name="Czech" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Pyramiden-Kofferfisch" title="Pyramiden-Kofferfisch – German" lang="de" hreflang="de" data-title="Pyramiden-Kofferfisch" data-language-autonym="Deutsch" data-language-local-name="German" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Tetrosomus_gibbosus" title="Tetrosomus gibbosus – Spanish" lang="es" hreflang="es" data-title="Tetrosomus gibbosus" data-language-autonym="Español" data-language-local-name="Spanish" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Tetrosomus_gibbosus" title="Tetrosomus gibbosus – Basque" lang="eu" hreflang="eu" data-title="Tetrosomus gibbosus" data-language-autonym="Euskara" data-language-local-name="Basque" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D8%AC%DA%A9%E2%80%8C%D9%85%D8%A7%D9%87%DB%8C_%DA%AF%D9%88%DA%98%D9%BE%D8%B4%D8%AA" title="برجک‌ماهی گوژپشت – Persian" lang="fa" hreflang="fa" data-title="برجک‌ماهی گوژپشت" data-language-autonym="فارسی" data-language-local-name="Persian" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Tetrosomus_gibbosus" title="Tetrosomus gibbosus – French" lang="fr" hreflang="fr" data-title="Tetrosomus gibbosus" data-language-autonym="Français" data-language-local-name="French" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Tetrosomus_gibbosus" title="Tetrosomus gibbosus – Italian" lang="it" hreflang="it" data-title="Tetrosomus gibbosus" data-language-autonym="Italiano" data-language-local-name="Italian" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Tetrosomus_gibbosus" title="Tetrosomus gibbosus – Hungarian" lang="hu" hreflang="hu" data-title="Tetrosomus gibbosus" data-language-autonym="Magyar" data-language-local-name="Hungarian" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%AA%D8%AA%D8%B1%D9%88%D8%B3%D9%88%D9%85%D9%88%D8%B3_%D8%AC%D9%8A%D8%A8%D9%88%D8%B3%D9%88%D8%B3" title="تتروسوموس جيبوسوس – Egyptian Arabic" lang="arz" hreflang="arz" data-title="تتروسوموس جيبوسوس" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Tetrosomus_gibbosus" title="Tetrosomus gibbosus – Dutch" lang="nl" hreflang="nl" data-title="Tetrosomus gibbosus" data-language-autonym="Nederlands" data-language-local-name="Dutch" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Kamelilosserokala" title="Kamelilosserokala – Finnish" lang="fi" hreflang="fi" data-title="Kamelilosserokala" data-language-autonym="Suomi" data-language-local-name="Finnish" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Pyramidkoffertfisk" title="Pyramidkoffertfisk – Swedish" lang="sv" hreflang="sv" data-title="Pyramidkoffertfisk" data-language-autonym="Svenska" data-language-local-name="Swedish" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/C%C3%A1_n%C3%B3c_ch%C3%B3p" title="Cá nóc chóp – Vietnamese" lang="vi" hreflang="vi" data-title="Cá nóc chóp" data-language-autonym="Tiếng Việt" data-language-local-name="Vietnamese" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E9%A7%9D%E8%83%8C%E4%B8%89%E6%A3%B1%E7%AE%B1%E9%AD%A8" title="駝背三棱箱魨 – Cantonese" lang="yue" hreflang="yue" data-title="駝背三棱箱魨" data-language-autonym="粵語" data-language-local-name="Cantonese" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E9%A9%BC%E8%83%8C%E4%B8%89%E6%A3%B1%E7%AE%B1%E9%B2%80" title="驼背三棱箱鲀 – Chinese" lang="zh" hreflang="zh" data-title="驼背三棱箱鲀" data-language-autonym="中文" data-language-local-name="Chinese" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+	    </section>
+	</div>
+	<div class="minerva-footer-logo">
+				<img src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" alt="Wikipedia" width="120" height="18"
+	style="width: 7.5em; height: 1.125em;"/>
+
+
+				<ul id="footer-icons" class="footer-icons">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+			</div>
+			<ul id="footer-info" class="footer-info hlist hlist-separated">
+	<li id="footer-info-lastmod"> This page was last edited on 14 May 2025, at 01:30<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Content is available under <a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">CC BY-SA 4.0</a> unless otherwise noted.</li>
+</ul>
+
+			<ul id="footer-places" class="footer-places hlist hlist-separated">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-terms-use"><a href="https://foundation.m.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a></li>
+	<li id="footer-places-desktop-toggle"><a id="mw-mf-display-toggle" href="//en.wikipedia.org/w/index.php?title=Tetrosomus_gibbosus&amp;mobileaction=toggle_view_desktop" data-event-name="switch_to_desktop">Desktop</a></li>
+</ul>
+
+			</div>
+		</footer>
+			</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+        <ul>
+                
+        </ul>
+</div>
+<div class="mw-notification-area" data-mw="interface"></div>
+<!-- v:8.3.1 -->
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-9695c4f76-jc7kg","wgBackendResponseTime":163,"wgPageParseReport":{"limitreport":{"cputime":"0.720","walltime":"0.909","ppvisitednodes":{"value":7820,"limit":1000000},"revisionsize":{"value":9124,"limit":2097152},"postexpandincludesize":{"value":59491,"limit":2097152},"templateargumentsize":{"value":6404,"limit":2097152},"expansiondepth":{"value":21,"limit":100},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":58988,"limit":5000000},"entityaccesscount":{"value":17,"limit":500},"timingprofile":["100.00%  849.536      1 -total"," 35.88%  304.823      1 Template:Speciesbox"," 35.24%  299.400      1 Template:Taxobox/core"," 24.50%  208.094      1 Template:Taxonbar"," 21.57%  183.257      1 Template:Reflist","  9.78%   83.051      1 Template:Cite_iucn","  7.82%   66.451      1 Template:Short_description","  6.53%   55.480      8 Template:Cite_journal","  5.97%   50.700      1 Template:Commons_category","  5.93%   50.341      2 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.544","limit":"10.000"},"limitreport-memusage":{"value":8778072,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-6fb68b447f-7mtbh","timestamp":"20250526100821","ttl":2592000,"transientcontent":false}}});});</script>
+<script>(window.NORLQ=window.NORLQ||[]).push(function(){var ns,i,p,img;ns=document.getElementsByTagName('noscript');for(i=0;i<ns.length;i++){p=ns[i].nextSibling;if(p&&p.className&&p.className.indexOf('lazy-image-placeholder')>-1){img=document.createElement('img');img.setAttribute('src',p.getAttribute('data-mw-src'));img.setAttribute('width',p.getAttribute('data-width'));img.setAttribute('height',p.getAttribute('data-height'));img.setAttribute('alt',p.getAttribute('data-alt'));p.parentNode.replaceChild(img,p);}}});</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tetrosomus gibbosus","url":"https:\/\/en.wikipedia.org\/wiki\/Tetrosomus_gibbosus","sameAs":"http:\/\/www.wikidata.org\/entity\/Q690512","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q690512","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-12-08T04:25:11Z","dateModified":"2025-05-14T01:30:14Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e1\/Pez_cofre_jorobado_%28Tetrosomus_gibbosus%29%2C_parque_nacional_Ras_Muhammad%2C_Egipto%2C_2022-03-27%2C_DD_146.jpg","headline":"species of fish"}</script>
+</body>
+</html>
