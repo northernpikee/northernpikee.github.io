@@ -943,3 +943,4 @@ Pterocaesio chrysozona, gold-band fusilier, 05.06.2025
 Sparisoma tuiupiranga, 06.06.2025
 Rondeletia bicolor, 07.06.2025
 Ophiodon elongatus, lingcod, 08.06.2025
+Corydoras melanotaenia, 09.06.2025
