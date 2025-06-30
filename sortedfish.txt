@@ -960,3 +960,7 @@ Pygocentrus piraya, Piraya piranha, 22.06.2025
 Stegastes pictus, Yellowfin famselfish, 23.06.2025
 Echinorhinus cookei, Prickly shark, 24.06.2025
 Dallia pectoralis, Alaska blavkfish, 25.06.2025
+Zeus faber, John dory, 26.06.2025
+Velifer hypselopterus, Sailfin velifer, 27.06.2025
+Monocentris japonica, Japanese pineapplefish, 28.06.2025
+Stereolepis gigas, giant sea bass, 29.06.2025
