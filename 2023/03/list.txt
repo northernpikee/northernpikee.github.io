@@ -1,0 +1,32 @@
+Microspathodon chrysurus (jewel damsel)	March 01, 2023
+Sphyraena barracuda (great barracuda)	March 02, 2023
+cetorhinus maximus (basking shark)	March 03, 2023
+Sprattus sprattus (european sprat)	March 04, 2023
+Corydoras robineae	March 05, 2023
+Diodon nicthemerus(slender spined porcupine fish)	March 06, 2023
+Eigenmannia virescens (glass knifefish)	March 07, 2023
+Lutjanus gibbus (humpback red snapper)	March 08, 2023
+Paracheilinus rennyae	March 09, 2023
+Parambassis ranga (indian glassy fish)	March 10, 2023
+pangasianodon hypothalamus (striped catfish)	March 11, 2023
+Fundulus heteroclitus (mummichog)	March 12, 2023
+Indostomus crocodilus	March 13, 2023
+Melanonus gracilis (pelagic cod)	March 14, 2023
+Amblyopsis hoosieri (hoosier cavefish)	March 15, 2023
+Haemulon album (white margate)	March 16, 2023
+Narcine bancroftii (lesser electric ray)	March 17, 2023
+Triacanthus biaculeatus (short-nosed tripodfish)	March 18, 2023
+Neoceratias spinifer	March 19, 2023
+Atractosteus spatula (alligator gar)	March 20, 2023
+Salvelinus alpinus (arctic char)	March 21, 2023
+Heteropriacanthus cruentatus	March 22, 2023
+Urophycis chuss (red hake)	March 23, 2023
+Marilyna darwinii (darwin toadfish)	March 24, 2023
+Babka gymnotrachelus (racer goby)	March 25, 2023
+Giganthias serratospinosus	March 26, 2023
+Halichoeres brasiliensis	March 27, 2023
+Urocampus carinirostris (hairy pipefish)	March 28, 2023
+Roa excelsa (Hawaiian gold-barred butterflyfish)	March 29, 2023
+Cyrtocara moorii (hump-head)	March 30, 2023
+Jaydia argyrogaster	March 31, 2023
+

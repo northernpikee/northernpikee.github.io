@@ -980,3 +980,6 @@ Malacanthus plumieri, Sand tilefish, 12.04.2025
 Eleotris sandwicensis, Sandwich Island sleeper, 13.07.2025
 Uropterygius xanthopterus, 14.07.2025
 Solephorus indicus, Indian anchovy, 15.07.2025
+Hemigrammus ocellifer, Head-and-taillight tetra, 16.07.2025
+Peckoltia brevis, 17.07.2025
+Ophidion barbatum, Snake blenny, 18.07.2025
