@@ -988,3 +988,4 @@ Apogonichthyoides pharaonis, Pharaoh cardinalfish, 20.07.2025
 Tachysurus fulvidraco, Yellowhead catfish, 21.07.2025
 Botia striata, Zebra loach, 22.07.2025
 Hemibarbus labeo, Barbel steed, 23.07
+Giuris margaritaceus, Snakehead gudgeon, 
