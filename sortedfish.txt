@@ -998,3 +998,8 @@ Vandellia cirrhosa, Candiru, 30.07.2025
 Tanichthys thacbaensis, 31.07.2025
 Protanguilla palau, 02.08.2025
 Rhonciscus branickii, Sand grunt, 03.08.2025
+Hemigrammus elegans, 04.08.2025
+Taenioides purpurascens, Purple eelgoby, 05.08.2025
+Misgurnus dabryanus, Large-scaled loach, 06.08.2025
+Laimosemion tecminae, 07.08.2025
+Triplophysa stolickai, Tibetan stone loach, 08.08.2025
