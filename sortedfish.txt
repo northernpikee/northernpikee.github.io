@@ -1020,3 +1020,5 @@ Polyipnus triphanos, threelight hatchetfish, 22.08.2025
 Zapteryx exasperata, banded guitarfish, 23.08.2025
 Aphyosemion bivittatum, two-banded killi, 24.08.2025
 Malthopsis gnoma, gnome seabat, 25.08.2025
+Campylomormyrus numenius, 26.08.2025
+Muraena helena, Mediterranean moray, 27.08.2025
