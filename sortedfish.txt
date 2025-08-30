@@ -1022,3 +1022,6 @@ Aphyosemion bivittatum, two-banded killi, 24.08.2025
 Malthopsis gnoma, gnome seabat, 25.08.2025
 Campylomormyrus numenius, 26.08.2025
 Muraena helena, Mediterranean moray, 27.08.2025
+Acanthoclinus fuscus, Olive rockfish, 28.08.2025
+Amblyeleotris aurora, Pinkbar goby, 29.08.2025
+Melanolagus bericoides, Bigscale Deepsea Smelt, 30.08.2025
