@@ -1026,3 +1026,4 @@ Acanthoclinus fuscus, Olive rockfish, 28.08.2025
 Amblyeleotris aurora, Pinkbar goby, 29.08.2025
 Melanolagus bericoides, Bigscale Deepsea Smelt, 30.08.2025
 Enteromius fasciolatus, African banded barb, 31.08.2025
+Parma kermadecensis, Kermadec scalyfin, 02.09.2025
