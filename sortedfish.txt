@@ -1031,3 +1031,6 @@ Exallias brevis, leopard blenny, 03.09.2025
 Panaque nigrolineatus, royal panaque, 04.09.2025
 Barbatula quignardi, Languedoc stone loach, 05.09.2025
 Uranoscopus dollfusi, Dollfus' stargazer, 06.09.2025
+Eopsetta jordani, Petrale sole, 07.09.2025
+Eleotris fusca, Dusky sleeper, 08.09.2025
+Coelorinchus caelorhincus, 09.09.2025
