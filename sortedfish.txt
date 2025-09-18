@@ -1039,3 +1039,7 @@ Gambusia affinis, western mosquitofish, 11.09.2025
 Atlantoraja cyclophora, eyespot skate, 12.09.2025
 Acanthoclinus matti, 13.09.2025
 Sciadonus longiventralis, longfinned cuskeel, 14.09.2025
+Geophagus steindachneri, redhumb eartheater, 15.09.2025
+Osteobrama bakeri, 16.09.2025
+Carassius auratus, goldfish, 17.09.2025
+Mastiglanis asopos, 18.09.2025
