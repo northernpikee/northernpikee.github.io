@@ -1048,3 +1048,9 @@ Devario devario, Bengal danio, 20.09.2025
 Nannoperca oxleyana, Oxleyan pygmy perch, 21.09.2025
 Iniistius celebicus, Celebes razorfish, 22.09.2025
 Apletodon dentatus, small-headed clingfish, 23.09.2025
+Atractosteus tristoechus, Cuban gar, 24.09.2025
+Alepocephalus tenebrosus, California slickhead, 25.09.2025
+Rexea solandri, Gemfish, 26.09.2025
+Priolepis nocturna, Blackbarred reefgoby, 27.09.2025
+Acanthurus olivaceus, Orangespot surgeonfish, 28.09.2025
+Tigrigobius multifasciatus, Green banded goby, 29.09.2025
