@@ -1054,3 +1054,4 @@ Rexea solandri, Gemfish, 26.09.2025
 Priolepis nocturna, Blackbarred reefgoby, 27.09.2025
 Acanthurus olivaceus, Orangespot surgeonfish, 28.09.2025
 Tigrigobius multifasciatus, Green banded goby, 29.09.2025
+Pseudocalliurichthys variegatus, variegated ruddertail dragonet, 30.09.2025
