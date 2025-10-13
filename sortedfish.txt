@@ -1055,3 +1055,9 @@ Priolepis nocturna, Blackbarred reefgoby, 27.09.2025
 Acanthurus olivaceus, Orangespot surgeonfish, 28.09.2025
 Tigrigobius multifasciatus, Green banded goby, 29.09.2025
 Pseudocalliurichthys variegatus, variegated ruddertail dragonet, 30.09.2025
+Enchelycore anatina, Fangtooth moray, 02.10.2025
+Cynoglossus zanzibarensis, Zanzibar tonguesole, 03.10.2025
+Knodus borki, 04.10.2025
+Oreichthys andrewi, 05.10.2025
+Elopichthys bambusa, Yellowcheek, 06.10.2025
+Pempheris nesogallica, 07.10.2025
