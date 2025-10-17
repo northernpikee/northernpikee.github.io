@@ -1066,3 +1066,4 @@ Sargocentron cornutum, threespot squirrelfish, 09.10.2025
 Etheostoma rufilineatum, redline darter, 10.10.2025
 Cheilodipterus macrodon, large-toothed cardinalfish, 11.10.2025
 Nipponocypris temminckii, dark chub, 12.10.2025
+Centropyge joculator, joculator angelfish, 13.10.2025
