@@ -1105,3 +1105,5 @@ Amphilophus citrinellus, 14.11.2025
 Synchiropus splendidus, mandarinfish, 15.11.2025
 Awaous banana, 16.11.2025
 Cynoscion regalis, weakfish, 17.11.2025
+Nothobranchius rachovii, bluefin notho, 18.11.2025
+Pseudotrichonotus altivelis, 19.11.2025
