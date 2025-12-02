@@ -1119,3 +1119,4 @@ Cirrhitops hubbardi, Hubbard's hawkfish, 28.11.2025
 Ammodytes hexapterus, Pacific sand lance, 29.11.2025
 Ctenopoma acutirostre, Leopard bushfish, 30.11.2025
 Parioglossus marginalis, blackmargin dartfish, 01.12.2025
+Labeobarbus seeberi, Clanwilliam yellowfish, 02.12.2025
