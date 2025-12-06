@@ -1110,7 +1110,7 @@ Pseudotrichonotus altivelis, 19.11.2025
 Harengula jaguana, Scaled sardine, 20.11.2025
 Helcogramma striata, Tropical striped triplefin, 21.11.2025
 Priacanrhus hamrur, lunar-tailed bigeye, 22.11.2025
-Potamotrygon motora, ocellate river stingray, 23.11.2025
+Potamotrygon motoro, ocellate river stingray, 23.11.2025
 Leporinus bahiensis, 24.11.2025
 Photostomias goodyeari, 25.11.2025
 Hydrocynus tanzaniae, blue trigerfish, 26.11.2025
@@ -1121,3 +1121,6 @@ Ctenopoma acutirostre, Leopard bushfish, 30.11.2025
 Parioglossus marginalis, blackmargin dartfish, 01.12.2025
 Labeobarbus seeberi, Clanwilliam yellowfish, 02.12.2025
 Pomacanthus navarchus, blue-girdled angelfish, 03.12.2025
+Sardinella gibbosa, goldstripe sardine, 04.12.2025
+Heterostichus rostratus, Giant kelpfish, 05.12.2025
+Microsynodontis polli, 06.12.2025
