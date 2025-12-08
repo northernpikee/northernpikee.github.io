@@ -1124,3 +1124,5 @@ Pomacanthus navarchus, blue-girdled angelfish, 03.12.2025
 Sardinella gibbosa, goldstripe sardine, 04.12.2025
 Heterostichus rostratus, Giant kelpfish, 05.12.2025
 Microsynodontis polli, 06.12.2025
+Lophius piscatorius, common monkfish, 07.12.2025
+Hippocampus waleananus, Walea pygmy seahorse, 08.12.2025
