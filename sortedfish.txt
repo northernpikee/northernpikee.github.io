@@ -1126,3 +1126,4 @@ Heterostichus rostratus, Giant kelpfish, 05.12.2025
 Microsynodontis polli, 06.12.2025
 Lophius piscatorius, common monkfish, 07.12.2025
 Hippocampus waleananus, Walea pygmy seahorse, 08.12.2025
+Melichthys niger, Black triggerfish, 09.12.2025
