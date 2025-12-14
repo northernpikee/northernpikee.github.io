@@ -1130,3 +1130,5 @@ Melichthys niger, Black triggerfish, 09.12.2025
 Oligolepis acutipennis, 10.12.2025
 Chalceus macrolepidotus, pinktail characin, 11.12.2025
 Cyttopsis rosea, rosy dory, 12.12.2025
+Etheostoma chermocki, Vermilion darter, 13.12.2025
+Arnoglossus laterna, Mediterranean scaldfish, 14.12.2025
