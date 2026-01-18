@@ -1165,3 +1165,5 @@ Prionotus scitulus, Leopard sea robin, 13.01.2026
 Hypostomus plecostomus, common pleco, 14.01.2026
 Colletteichthys dussumieri, Flat toadfish, 15.01.2026
 Coregonus huntsmani, Atlantic whitefish, 16.01.2026
+Okamejei kenojei, Ocellate spot skate, 17.01.2025
+Hyphessobrycon herbertaxelrodi, black neon tetra, 18.01.2026
