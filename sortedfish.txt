@@ -1167,3 +1167,6 @@ Colletteichthys dussumieri, Flat toadfish, 15.01.2026
 Coregonus huntsmani, Atlantic whitefish, 16.01.2026
 Okamejei kenojei, Ocellate spot skate, 17.01.2025
 Hyphessobrycon herbertaxelrodi, black neon tetra, 18.01.2026
+Hoplisoma panda, panda catfish, 19.01.2026
+Assurger anzac, razorback scabbardfish, 20.01.2026
+Otocinclus cocama, zebra oto, 21.01.2026
