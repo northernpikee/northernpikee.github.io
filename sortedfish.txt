@@ -1170,3 +1170,5 @@ Hyphessobrycon herbertaxelrodi, black neon tetra, 18.01.2026
 Hoplisoma panda, panda catfish, 19.01.2026
 Assurger anzac, razorback scabbardfish, 20.01.2026
 Otocinclus cocama, zebra oto, 21.01.2026
+Spatuloricaria terracanticum, 22.01.2026
+Pseudogramma gregoryi, 23.01.2026
