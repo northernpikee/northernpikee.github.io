@@ -995,7 +995,7 @@ Pterapogon kauderni, Banggai cardinalfish,
 Synodontis njassae, Malawi squeaker, 28.07.2025
 Aspidoras fuscoguttatus, brown-point shield skin longirostris, 29.07.2025
 Vandellia cirrhosa, Candiru, 30.07.2025
-Tanichthys thacbaensis, 31.07.2025
+Tanichthys thacbaensis,(tanichthys kuehnei/Alligarina thacbaensis) 31.07.2025
 Protanguilla palau, 02.08.2025
 Rhonciscus branickii, Sand grunt, 03.08.2025
 Hemigrammus elegans, 04.08.2025
@@ -1173,3 +1173,8 @@ Otocinclus cocama, zebra oto, 21.01.2026
 Spatuloricaria terracanticum, 22.01.2026
 Pseudogramma gregoryi, 23.01.2026
 Carasobarbus apoensis, Arabian himri, 24.01.2026
+Corydoras ephippifer, 25.01.2026
+Hydrocynus forskahlii, elongate tigerfish, 26.01.2026
+Tanichthys micagemmae, Vietnamese white cloud minnow, 27.01.2026
+Sunagocia otaitensis, Fringeclip flathead, 28.01.2026
+Salmostoma phulo, finescale razorbelly minnow, 29.01.2026
