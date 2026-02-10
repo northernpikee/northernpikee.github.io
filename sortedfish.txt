@@ -1187,3 +1187,6 @@ Maskaheros argenteus, White cichlid, 04.02.2026
 Cheilopogon pinnatibarbatus, Bennett's flying fish, 05.02.2026
 Pempheris adspersa, New Zealand bigeye, 06.02.2026
 Lebetus guilleti, Guillet's goby, 07.02.2026
+Incisilabeo behri, 08.02.2026
+Diretmus argenteus, Discfish, 09.02.2026
+Acanthocobitis mooreh, 10.02.2026
