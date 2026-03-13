@@ -792,6 +792,7 @@
  sladenia shaefersi
  solea solea
  suezichthys arquatus (25.11.2024)
+ sparisoma cretense (01.03.2026)
  sparisoma frondosum (20.01.2024)
  sparisoma radians (16.06.2023)
  spectrolebias brousseaui (04.05.2024)
@@ -1208,3 +1209,6 @@ Pseudanthias pleurotaenia, pink square anthias, 25.02.2026
 Miniellus longirostris, 26.02.2026
 Thrissina vitrirostris, Orangemouth anchovy, 27.02.2026
 Synodontis batensoda, Upsidedown catfish, 28.02.2026
+Hyphessobrycon peugeoti, Peugeot tetra, 02.03.2026
+Nimbochromis venustus, Giraffe hap, 03.03.2026
+Leptoderma affine, Eel Slickhead, 04.03.2026
