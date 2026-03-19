@@ -1212,3 +1212,18 @@ Synodontis batensoda, Upsidedown catfish, 28.02.2026
 Hyphessobrycon peugeoti, Peugeot tetra, 02.03.2026
 Nimbochromis venustus, Giraffe hap, 03.03.2026
 Leptoderma affine, Eel Slickhead, 04.03.2026
+Hypostomus oculeus, 05.03.2026
+Oxuderces dentatus, 06.03.2026
+Hypoplectrus atlahua, Jarocho Hamlet, 06.03.2026
+Haplochromis ischmaeli, 08.03.2026
+Crossocheilus oblongus, Siamese algae-eater, 09.03.2026
+Thaumatichthys bingami, 10.03.2026
+Barbourisia rufa, Redvelvet Whalefish, 11.03.2026
+Macropinna microstoma, Barreleye fish, 12.03.2026
+Sebastes miniatus, Vermilion rockfish, 13.03.2026
+Opeatogenys gracilis, 14.03.2026
+Trachyrhamphus bicoarctatus, Double-ended pipefish, 15.03.2026
+Chrysiptera arnazae, Arnaz's damselfish, 16.03.2026
+Ancherythroculter wangi, 17.03.2026
+Cichlasoma orinocense, 18.03.2026
+Luciobarbus esocinus, Mangar, 19.03.2026
