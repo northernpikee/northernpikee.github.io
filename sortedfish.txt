@@ -148,7 +148,7 @@
  chaetostoma nudirostre 
  channa argus
  channa melasoma
- chanos chanos
+ chanos chanos (07.12.2022) 
  chaouliodus sloani
  characidium gomesi (01.11.2023)
  chasmocranus quadrizonatus (07.10.2023)
@@ -158,7 +158,7 @@
  chiloglanis congicus (11.06.2024)
  chilomycterus antillarum
  chindongo socolofi
- chitala ornata
+ chitala ornata (08.12.2022)
  chlorophthalmus acutifrons
  chondrostoma nasus
  chromis alpha (17.05.2024)
@@ -305,7 +305,7 @@
  gadomus colletti (14.03.2025)
  gadus chalcogrammus (01.11.2022)
  gadus macrocephalus (20.11.2023)
- gadus morhua
+ gadus morhua (14.12.2022)
  gaidropsarus guttatus
  galaxias pullus (16.11.2024)
  galaxias tanycephalus (17.10.2023)
@@ -385,8 +385,8 @@
  hippoglossoides elassodon (08.11.2024)
  histiogamphelus briggsii
  holacanthus africanus
- holacanthus ciliaris
- holocentrus adscensionis
+ holacanthus ciliaris (09.12.2022)
+ holocentrus adscensionis (05.12.2022)
  hologymnosus annulatus (26.10.2023)
  holohalaelurus punctatus (09.09.2023)
  hoplostethus atlanticus
@@ -395,7 +395,8 @@
  hucho hucho (18.01.2025)
  hucho taimen
  hydrocynus goliath
- hydrolagus mitsukurii (30.07.2023)
+ hydrolagus mitsukurii (21.11.2022)
+ hydrolagus homonycteris (30.07.2023)
  hypancistrus furunculus (19.10.2024)
  hypentelium etowanum
  hyphessobrycon margitae (21.12.2023)
@@ -583,12 +584,12 @@
  oncorhynchus nerka
  ophioblennius clippertonensis (06.11.2024)
  opisthopterus macrops (24.11.2024)
- opisthoproctus soleatus
+ opisthoproctus soleatus (12.12.2022)
  opistognathus aurifrons (10.04.2025)
  opistognathus panamaensis
  opistognathus randalli (20.06.2024)
  oplegnathus fasciatus
- orectolobus maculatus
+ orectolobus maculatus (06.12.2022)
  oreochromis amphimelas (21.09.2024)
  oreochromis mortimeri (29.06.2023)
  oreochromis squamipinnis (08.11.2023)
@@ -683,7 +684,7 @@
  priolepis farcimen (20.07.2023)
  prionace glauca
  pristella maxillaris (15.12.2022)
- pristiophorus japonicus
+ pristiophorus japonicus (13.12.2022)
  pristolepis marginata (31.08.2023)
  procatopus similis
  propimelodus araguayae
@@ -753,7 +754,7 @@
  salvelinus leucomaenis
  salvelinus malma (23.01.2025)
  samariscus huysmani (02.05.2024)
- sanopus splendidus
+ sanopus splendidus (10.12.2022) 
  sargochromis codringtonii
  satyrichthys welchi (10.10.2024)
  saurenchelys taiwanensis
@@ -770,7 +771,7 @@
  scorpaenopsis macrochir (31.05.2024)
  scortum barcoo
  scriptaphyosemion fredrodi (16.03.2025)
- scylliorhinus stellaris
+ scyliorhinus stellaris
  sebastes caurinus
  sebastes norvegicus (23.08.2023)
  semaprochilodus brama (27.07.2023)
@@ -781,7 +782,7 @@
  setipinna paxtoni (30.10.2024)
  setipinna wheeleri
  sicyopterus stimpsoni (03.02.2023)
- sigmops elongatus
+ sigmops elongatus (02.12.2022)
  signigobius biocellatus
  sillago intermedia
  sillago sihama (29.09.2024)
@@ -872,7 +873,7 @@
  uranoscopus scaber
  uranoscopus sulphureus (24.06.2024)
  urocampus carinirostris
- urogymnus asperrimus
+ urogymnus asperrimus (01.12.2022)
  urolophus cruciatus
  urolophus kapalensis (12.10.2023)
  urophycis chuss
@@ -895,7 +896,7 @@
  yaoshania pachychilus (27.11.2024)
  zapteryx xyster
  zearaja nasuta
- zebrasoma desjardinii
+ zebrasoma desjardinii (04.12.2022)
  zebrias craticulus (03.05.2023)
  zenarchopterus philippinus
  zenion hololepis (06.12.2024)
@@ -1227,3 +1228,4 @@ Chrysiptera arnazae, Arnaz's damselfish, 16.03.2026
 Ancherythroculter wangi, 17.03.2026
 Cichlasoma orinocense, 18.03.2026
 Luciobarbus esocinus, Mangar, 19.03.2026
+Hyperphlyphe macrophthalma, 20.03.2026
