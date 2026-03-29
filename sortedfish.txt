@@ -1235,3 +1235,6 @@ Hyphessobrycon flammeus, Flame Tetra, 23.03.2025
 Batasio feruminatus, 24.03.2026
 Rhinogobio ventralis, 25.03.2026
 Coptodon rendalli, Redbreast tilapia, 
+Choerodon cauteroma, bluespotted tuskfish, 27.03.2026
+Pseudocrenilabrus multicolor, Egyptian mouthbrooder, 28.03.2026
+Scorpaenodes arenai, Messina rockfish, 29.03.2026
