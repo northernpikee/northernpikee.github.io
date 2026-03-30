@@ -1238,3 +1238,4 @@ Coptodon rendalli, Redbreast tilapia,
 Choerodon cauteroma, bluespotted tuskfish, 27.03.2026
 Pseudocrenilabrus multicolor, Egyptian mouthbrooder, 28.03.2026
 Scorpaenodes arenai, Messina rockfish, 29.03.2026
+Bryconalestes longipinnis, Longfin tetra, 30.03.2026
