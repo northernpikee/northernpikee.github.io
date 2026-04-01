@@ -1240,3 +1240,4 @@ Pseudocrenilabrus multicolor, Egyptian mouthbrooder, 28.03.2026
 Scorpaenodes arenai, Messina rockfish, 29.03.2026
 Bryconalestes longipinnis, Longfin tetra, 30.03.2026
 Urobatis concentricus, Bullseye stingray, 31.03.2026
+Limbochromis robertsi, 01.04.2026
