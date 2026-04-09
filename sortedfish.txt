@@ -1241,3 +1241,11 @@ Scorpaenodes arenai, Messina rockfish, 29.03.2026
 Bryconalestes longipinnis, Longfin tetra, 30.03.2026
 Urobatis concentricus, Bullseye stingray, 31.03.2026
 Limbochromis robertsi, 01.04.2026
+Brachygalaxias bullocki, Red jollytail, 02.04.2026
+Eretmodus cyanostictus, Tanganyika Clown, 03.04.2026
+Bathyuroconger vicinus, Large-toothed Conger, 04.04.2026
+Hypsolebias magnificus, 05.04.2026
+Rutilus rutilus, Roach, 06.04.2026
+Esomus danrica,Indian flying barb, 07.04.2026
+Gymnothorax unicolor, brown moray eel, 08.04.2026
+Scolecenchelys breviceps, Short-headed worm eel, 09.04.2026
