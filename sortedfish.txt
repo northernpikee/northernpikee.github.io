@@ -1256,3 +1256,12 @@ Sebastes inermis, Japanese red seaperch, 13.04.2026
 Soleichthys heterorhinos, Blue edged sole, 14.04.2026
 Apletodon pellegrini, Chubby clingfish, 15.04.2026
 Bembrops filiferus, Sharpnosed duckbill, 16.04.2026
+Pseudomugil cyanodorsalis, Blueback blue-eye, 17.04.2026
+Thorichthys meeki, Firemouth cichlid, 18.04.2026
+Brochis geryi, Bolivian cory, 19.04.2026
+Ablabys taenianotus, Cockatoo waspfish, 20.04.2026
+Elacatinus oceanops, Neon goby, 21.04.2026
+Epalzeorhynchos kalopterum, Flying fox, 22.04.2026
+Synodontis haugi, 23.04.2026
+Chrysiptera hemicyanea, Azure damoiselle, 24.04.2026
+Centropogon australis, Eastern fortesque, 25.04.2026
