@@ -1265,3 +1265,7 @@ Epalzeorhynchos kalopterum, Flying fox, 22.04.2026
 Synodontis haugi, 23.04.2026
 Chrysiptera hemicyanea, Azure damoiselle, 24.04.2026
 Centropogon australis, Eastern fortesque, 25.04.2026
+Cleidopus gloriamaris, Pineapplefish, 26.04.2026
+Didogobius schlieweni, 27.04.2026
+Choerodon fasciatus, Harlequin tuskfish, 28.04.2026
+Aphyosemion cyanostictum, Gabon jewelfish, 29.04.2026
