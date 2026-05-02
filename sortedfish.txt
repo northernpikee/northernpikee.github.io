@@ -1269,3 +1269,4 @@ Cleidopus gloriamaris, Pineapplefish, 26.04.2026
 Didogobius schlieweni, 27.04.2026
 Choerodon fasciatus, Harlequin tuskfish, 28.04.2026
 Aphyosemion cyanostictum, Gabon jewelfish, 29.04.2026
+Paratrypauchen microcephalus, Comb goby, 30.04.2026
