@@ -1270,3 +1270,8 @@ Didogobius schlieweni, 27.04.2026
 Choerodon fasciatus, Harlequin tuskfish, 28.04.2026
 Aphyosemion cyanostictum, Gabon jewelfish, 29.04.2026
 Paratrypauchen microcephalus, Comb goby, 30.04.2026
+Parachaenichthys charcoti, 01.05.2026
+Nothobranchius kilomberoensis, 02.05.2026
+Poroderma panntherium, Leopard catshark, 03.05.2026
+Bajacalifornia burragei, Sharpchin slickhead, 04.05.2026
+Tigrigobius rubrigenis, Redcheek goby, 05.05.2026
