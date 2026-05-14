@@ -1275,3 +1275,12 @@ Nothobranchius kilomberoensis, 02.05.2026
 Poroderma panntherium, Leopard catshark, 03.05.2026
 Bajacalifornia burragei, Sharpchin slickhead, 04.05.2026
 Tigrigobius rubrigenis, Redcheek goby, 05.05.2026
+Lestidium nudum, 06.05.2026
+Haemulon flavolineatum, banana grunt, 07.05.2026
+Gobius niger, Black goby, 08.05.2026
+Rondeletia loricata, 09.05.2026
+Discogobio yunnanensis, 10.05.2026
+Schistura alticrista, 11.05.2025
+Melanocharacidium pectorale, 12.05.2026
+Guentherus katoi, 13.05.2026
+Garra flavatra, 14.05.2026
