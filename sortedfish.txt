@@ -1303,3 +1303,6 @@ Cirrhigaleus barbifer, Mandarin dogfish, 29.05.2026
 Amia ocellicauda, eyespot bowfin, 30.05.2026
 Pteragogus trispilus, 31.05.2026
 Bairdiella chrysoura, American silver perch, 02.06.2026
+Hypoptopoma inexspectatum, 03.06.2026
+Astatotilapia latifasciata, 04.06.2026
+Aphyosemion christyi, Christy' Lyretail, 05.06.2026
