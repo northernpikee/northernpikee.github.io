@@ -1318,3 +1318,8 @@ Gobius rubropunctatus, 14.06.2026
 Ichthyococcus ovatus, Ovate Lightfish, 15.06.2026
 Acanthurus leucosternon, Blue surgeonfish, 16.06.2026
 Aequidens tetramerus, Saddle cichlid, 17.06.2026
+Raiamas moorii, Lake Rukwa minnow, 18.06.2026
+Paraclinus marmoratus, Marbled Blenny, 19.06.2026
+Lepidoblennius haplodactylus, Eastern jumping blenny, 20.06.2026
+Insentiraja subtilispinosa, Western Looseskin Skate, 21.06.2026
+Gobio carpathicus, Carpathian gudgeon, 22.06.2026
