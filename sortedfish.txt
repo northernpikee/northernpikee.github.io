@@ -1323,3 +1323,8 @@ Paraclinus marmoratus, Marbled Blenny, 19.06.2026
 Lepidoblennius haplodactylus, Eastern jumping blenny, 20.06.2026
 Insentiraja subtilispinosa, Western Looseskin Skate, 21.06.2026
 Gobio carpathicus, Carpathian gudgeon, 22.06.2026
+Anchoa lyolepis, shortfinger anchovy, 23.06.2026
+Loricaria simillima, 24.06.2026
+Dermatias platynogaster, 25.06.2026
+Creagrutus changae, 26.06.2026
+Malakichthys griseus, 27.06.2026
