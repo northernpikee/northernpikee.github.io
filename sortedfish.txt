@@ -782,6 +782,7 @@
  serrasalmus elongatus
  setipinna paxtoni (30.10.2024)
  setipinna wheeleri
+ sewellia lineolata (01.07.2026)
  sicyopterus stimpsoni (03.02.2023)
  sigmops elongatus (02.12.2022)
  signigobius biocellatus
@@ -1331,3 +1332,9 @@ Malakichthys griseus, 27.06.2026
 Luzonichthys taeniatus, 28.06.2026
 Opistognathus rosenblatti, blue-spotted jawfish, 29.06.2026
 Trygonoptera ovalis, striped stingaree, 30.06.2026
+Siganus vulpinus, foxface rabbitfish, 02.07.2026
+Prionurus biafraensis, Biafra doctorfish, 03.07.2026
+Petrocephalus boboto, 04.07.2026
+Triplophysa ferganaensis, Fergana stone loach, 05.07.2026
+Glossogobius giuris, tank goby, 06.07.2026
+Imparfinis piperatus, 07.07.2026
