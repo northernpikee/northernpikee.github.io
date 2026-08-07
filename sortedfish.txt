@@ -1358,3 +1358,6 @@ Pristis zijsron, longcomb sawfish, 25.07.2026
 Petitella bleheri, Firehead tetra, 26.07.2026
 Escualosa thoracata, White sardine, 27.07.2026
 Tetronarce nobiliana, Atlantic torpedo, 28.07.2026
+Misgurnus anguillicaudatus, Pond loach, 29.07.2026
+Neofundulus paraguayensis, 30.07.2026
+Springeria folirostris, Leafnose leg skate, 31.07.2026
