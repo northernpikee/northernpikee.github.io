@@ -1362,3 +1362,9 @@ Tetronarce nobiliana, Atlantic torpedo, 28.07.2026
 Misgurnus anguillicaudatus, Pond loach, 29.07.2026
 Neofundulus paraguayensis, 30.07.2026
 Springeria folirostris, Leafnose leg skate, 31.07.2026
+Anampses neoguinaicus, New Guinea wrasse, 02.08.2026
+Pristis pristis, largetooth sawfish, 03.08.2026
+Lutjanus kasmira, Common bluestripe snapper, 04.08.2026
+Hemiancistrus subviridis, 05.08.2026
+Apristurus brunneus, Brown Catshark, 06.08.2026
+Alburnus albidus, Italian bleak, 07.08.2026
