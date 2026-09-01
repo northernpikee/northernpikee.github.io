@@ -1375,3 +1375,20 @@ Epigonus marisrubri, 11.08.2026
 Markiana nigripinnis, 12.08.2026
 Trematomus bernacchii, emerald rockcod, 13.08.2026
 Syngnathus typhle, broadnosed pipefish, 14.08.2026
+Lota lota, Burbot, 15.08.2026
+Odontesthes bonariensis, Argentinian silverside, 16.08.2026
+Betta strohi, 17.08.2026
+Argyropelecus aculeatus, Lovely hatchetfish, 18.08.2026
+ Luciobarbus escherichii, Ankara barbell, 19.08.2026
+Melanosternarchus amaru, 20.08.2026
+Lipogramma trilineata, Three-lined basslet, 21.08.2026
+Centrogenys vaigiensis, False scorpionfish, 22.08.2026
+Chiloscyllium griseum, Grey bamboo shark, 23.08.2026
+Lactarius lactarius, False trevally, 24.08.2026
+Cryptacanthodes giganteus, Giant wrymouth, 25.08.2026
+Phractocephalus hemioliopterus, redtail catfish, 26.08.2026
+Banjos banjos, Banjofish, 27.08.2026
+Horabagrus brachysoma, 28.08.2026
+Brotula barbata, Bearded brotula, 29.08.2026
+Bathymaster signatus, searcher, 30.08.2026
+Sardina pilchardus, European pilchard, 31.08.2026
