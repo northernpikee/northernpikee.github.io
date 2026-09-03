@@ -1392,3 +1392,6 @@ Horabagrus brachysoma, 28.08.2026
 Brotula barbata, Bearded brotula, 29.08.2026
 Bathymaster signatus, searcher, 30.08.2026
 Sardina pilchardus, European pilchard, 31.08.2026
+Ariomma regulus, 01.09.2026
+Chrysiptera starcki, Starck's demoiselle, 02.09.2026
+Aldrovandia oleosa, 03.09.2026
