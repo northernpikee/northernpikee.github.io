@@ -1405,3 +1405,13 @@ Chirocentrus dorab, dorab wolf-herring, 10.09.2026
 Pempheris affinis, black-tipped bullseye, 11.09.2026
 Springerichthys bapturus, Japanese blacktail triplefin, 12.09.202
 Nematistius pectoralis, Roosterfish, 13.09.2026
+Holapogon maximus, 14.09.2026
+Epigonus mayeri, Angolan deepwater cardinalfish, 15.09.2026
+Anguilla rostrata, American eel, 16.09.2026
+Pholidichthys leucotaenia, 17.09.2026
+Acanthurus coeruleus, Atlantic blue tang, 18.09.2026
+Nandus nebulosus, Bornean leaffish, 19.09.2026
+Pataecus fronto, Red Indian fish, 20.09.2026
+Galaxias olidus, mountain galaxias, 21.09.2026
+Symphurus diomedeanus, Spottedfin tonguefish, 22.09.2026
+Cypholebias cinereus, 23.09.2026
