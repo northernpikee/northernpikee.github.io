@@ -1422,3 +1422,8 @@ Bathygadus melanobranchus, Vaillant's grenadier, 27.09.2026
 Opisthonema libertate, Pacific thread herring, 28.09.2026
 Grammonus thielei, 29.09.2026
 Poecilia chica, Dwarf molly, 30.09.2026
+Corydoras simulatus, Olga cory, 01.10.2026
+Etheostoma simoterum, Snubnose darter, 02.10.2026
+Trimma sheppardi, Sheppard's pygmygoby, 03.10.2026
+Otocinclus hoppei, 04.10.2026
+Odontanthias fuscipinnis, Hawaiian deep anthias, 05.10.2026
