@@ -1454,3 +1454,21 @@ Protopterus aethiopicus, Marbled lungfish, 29.10.2026
 Cantherhines macrocerus, whitespotted filefish, 30.10.2026
 Spectrunculus grandis, Pudgy cusk-eel, 01.11.2026
 Tathicarpus butleri, Butler's frogfish, 02.11.2026
+Betta rubra, Toba betta, 03.11.2026
+Hiodon alosoides, Goldeye, 04.11.2026
+Myripristis murdjan, 05.11.2026
+Omosudis lowii, Hammerjaw, 06.11.2026
+Ituglanis jussariensis, 07.11.2026
+Galaxiella munda, Western mud minnow, 08.11.2026
+Henicorhynchus siamensis, Siamese mud carp, 09.11.2026
+Heterodontus ramalheira, Whitespotted bullhead shark, 10.11.2026
+Myliobatis freminvillei, Bullnose eagle ray, 11.11.2026
+Capros aper, boarfish, 12.11.2026
+Serranus cabrilla, Comber, 13.11.2026
+Elops hawaiensis, Hawaiian tenpounder, 14.11.2026
+Omobranchus hikkaduwensis, Germain's blenny, 15.11.2026
+Opsanus beta, Gulf toadfish, 16.11.2026
+Careproctus colliculi, 17.11.2026
+Astyanax argyrimarginatus, 18.11.2026
+Lepisosteus platyrhincus, Florida gar, 19.11.2026
+Lythrypnus zebra, Zebra goby, 20.11.2026
